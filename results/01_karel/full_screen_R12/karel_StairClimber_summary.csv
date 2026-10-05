@@ -1,0 +1,2 @@
+task,across_grid_std(mean_label),within_grid_std,signal_std,SNR,label_reliability,best_feature,best_single_|rho|,rf_cv_rho
+StairClimber,0.138,0.378,0.08,0.51,0.254,graph_start_eccentricity,0.002,-0.02

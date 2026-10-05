@@ -1,0 +1,55 @@
+n=   60 rep0 log A* nodes expanded  ours=0.686 cnn=0.613
+n=   60 rep0 Boxoban tier (AUC)     ours=0.738 cnn=0.518
+n=   60 rep1 log A* nodes expanded  ours=0.686 cnn=0.624
+n=   60 rep1 Boxoban tier (AUC)     ours=0.767 cnn=0.729
+n=   60 rep2 log A* nodes expanded  ours=0.704 cnn=0.623
+n=   60 rep2 Boxoban tier (AUC)     ours=0.746 cnn=0.566
+n=   60 rep3 log A* nodes expanded  ours=0.616 cnn=0.596
+n=   60 rep3 Boxoban tier (AUC)     ours=0.757 cnn=0.725
+n=   60 rep4 log A* nodes expanded  ours=0.688 cnn=0.579
+n=   60 rep4 Boxoban tier (AUC)     ours=0.761 cnn=0.746
+n=  200 rep0 log A* nodes expanded  ours=0.703 cnn=0.651
+n=  200 rep0 Boxoban tier (AUC)     ours=0.757 cnn=0.745
+n=  200 rep1 log A* nodes expanded  ours=0.719 cnn=0.670
+n=  200 rep1 Boxoban tier (AUC)     ours=0.770 cnn=0.688
+n=  200 rep2 log A* nodes expanded  ours=0.725 cnn=0.633
+n=  200 rep2 Boxoban tier (AUC)     ours=0.755 cnn=0.759
+n=  200 rep3 log A* nodes expanded  ours=0.722 cnn=0.663
+n=  200 rep3 Boxoban tier (AUC)     ours=0.774 cnn=0.685
+n=  200 rep4 log A* nodes expanded  ours=0.694 cnn=0.658
+n=  200 rep4 Boxoban tier (AUC)     ours=0.714 cnn=0.726
+n=  500 rep0 log A* nodes expanded  ours=0.732 cnn=0.688
+n=  500 rep0 Boxoban tier (AUC)     ours=0.785 cnn=0.767
+n=  500 rep1 log A* nodes expanded  ours=0.727 cnn=0.709
+n=  500 rep1 Boxoban tier (AUC)     ours=0.774 cnn=0.750
+n=  500 rep2 log A* nodes expanded  ours=0.727 cnn=0.708
+n=  500 rep2 Boxoban tier (AUC)     ours=0.781 cnn=0.766
+n=  500 rep3 log A* nodes expanded  ours=0.732 cnn=0.694
+n=  500 rep3 Boxoban tier (AUC)     ours=0.788 cnn=0.767
+n=  500 rep4 log A* nodes expanded  ours=0.726 cnn=0.670
+n=  500 rep4 Boxoban tier (AUC)     ours=0.775 cnn=0.781
+n= 1000 rep0 log A* nodes expanded  ours=0.744 cnn=0.730
+n= 1000 rep0 Boxoban tier (AUC)     ours=0.784 cnn=0.775
+n= 1000 rep1 log A* nodes expanded  ours=0.744 cnn=0.762
+n= 1000 rep1 Boxoban tier (AUC)     ours=0.792 cnn=0.790
+n= 1000 rep2 log A* nodes expanded  ours=0.746 cnn=0.732
+n= 1000 rep2 Boxoban tier (AUC)     ours=0.775 cnn=0.789
+n= 1000 rep3 log A* nodes expanded  ours=0.745 cnn=0.719
+n= 1000 rep3 Boxoban tier (AUC)     ours=0.788 cnn=0.786
+n= 1000 rep4 log A* nodes expanded  ours=0.744 cnn=0.744
+n= 1000 rep4 Boxoban tier (AUC)     ours=0.780 cnn=0.780
+n= 2000 rep0 log A* nodes expanded  ours=0.753 cnn=0.769
+n= 2000 rep0 Boxoban tier (AUC)     ours=0.792 cnn=0.801
+                                   mean                    std          
+method                     CNN raw grid ours (RF) CNN raw grid ours (RF)
+label                 n                                                 
+Boxoban tier (AUC)    60          0.657     0.754        0.106     0.012
+                      200         0.721     0.754        0.033     0.024
+                      500         0.766     0.781        0.011     0.006
+                      1000        0.784     0.784        0.006     0.006
+                      2000        0.801     0.792          NaN       NaN
+log A* nodes expanded 60          0.607     0.676        0.019     0.034
+                      200         0.655     0.713        0.014     0.014
+                      500         0.694     0.729        0.016     0.003
+                      1000        0.737     0.745        0.016     0.001
+                      2000        0.769     0.753          NaN       NaN

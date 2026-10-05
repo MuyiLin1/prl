@@ -1,0 +1,687 @@
+{
+  "condition": "random_curriculum",
+  "seed": 12,
+  "sizes": [
+    9,
+    13,
+    17
+  ],
+  "tiers": [
+    1,
+    2,
+    3
+  ],
+  "total_steps": 1500000,
+  "n_bins": 3,
+  "target": 0.3,
+  "steps_to_target": null,
+  "final_held_success": 0.1042,
+  "wall_s": 1569.6,
+  "n_train": 90,
+  "n_eval": 36,
+  "curve": [
+    {
+      "env_steps": 50000,
+      "held_success": 0.0,
+      "gate_success": 0.0,
+      "frontier": 0,
+      "n_active": 30,
+      "wall_s": 51.3,
+      "held_by_cell": {
+        "s9N1": 0.0,
+        "s9N2": 0.0,
+        "s9N3": 0.0,
+        "s13N1": 0.0,
+        "s13N2": 0.0,
+        "s13N3": 0.0,
+        "s17N1": 0.0,
+        "s17N2": 0.0,
+        "s17N3": 0.0
+      }
+    },
+    {
+      "env_steps": 100000,
+      "held_success": 0.0,
+      "gate_success": 0.0,
+      "frontier": 0,
+      "n_active": 30,
+      "wall_s": 97.5,
+      "held_by_cell": {
+        "s9N1": 0.0,
+        "s9N2": 0.0,
+        "s9N3": 0.0,
+        "s13N1": 0.0,
+        "s13N2": 0.0,
+        "s13N3": 0.0,
+        "s17N1": 0.0,
+        "s17N2": 0.0,
+        "s17N3": 0.0
+      }
+    },
+    {
+      "env_steps": 150000,
+      "held_success": 0.0,
+      "gate_success": 0.0,
+      "frontier": 0,
+      "n_active": 30,
+      "wall_s": 141.7,
+      "held_by_cell": {
+        "s9N1": 0.0,
+        "s9N2": 0.0,
+        "s9N3": 0.0,
+        "s13N1": 0.0,
+        "s13N2": 0.0,
+        "s13N3": 0.0,
+        "s17N1": 0.0,
+        "s17N2": 0.0,
+        "s17N3": 0.0
+      }
+    },
+    {
+      "env_steps": 200000,
+      "held_success": 0.0,
+      "gate_success": 0.0,
+      "frontier": 0,
+      "n_active": 30,
+      "wall_s": 192.1,
+      "held_by_cell": {
+        "s9N1": 0.0,
+        "s9N2": 0.0,
+        "s9N3": 0.0,
+        "s13N1": 0.0,
+        "s13N2": 0.0,
+        "s13N3": 0.0,
+        "s17N1": 0.0,
+        "s17N2": 0.0,
+        "s17N3": 0.0
+      }
+    },
+    {
+      "env_steps": 250000,
+      "held_success": 0.0,
+      "gate_success": 0.0,
+      "frontier": 0,
+      "n_active": 30,
+      "wall_s": 254.3,
+      "held_by_cell": {
+        "s9N1": 0.0,
+        "s9N2": 0.0,
+        "s9N3": 0.0,
+        "s13N1": 0.0,
+        "s13N2": 0.0,
+        "s13N3": 0.0,
+        "s17N1": 0.0,
+        "s17N2": 0.0,
+        "s17N3": 0.0
+      }
+    },
+    {
+      "env_steps": 300000,
+      "held_success": 0.0,
+      "gate_success": 0.0,
+      "frontier": 0,
+      "n_active": 30,
+      "wall_s": 310.1,
+      "held_by_cell": {
+        "s9N1": 0.0,
+        "s9N2": 0.0,
+        "s9N3": 0.0,
+        "s13N1": 0.0,
+        "s13N2": 0.0,
+        "s13N3": 0.0,
+        "s17N1": 0.0,
+        "s17N2": 0.0,
+        "s17N3": 0.0
+      }
+    },
+    {
+      "env_steps": 350000,
+      "held_success": 0.0069,
+      "gate_success": 0.0,
+      "frontier": 0,
+      "n_active": 30,
+      "wall_s": 354.9,
+      "held_by_cell": {
+        "s9N1": 0.0,
+        "s9N2": 0.0,
+        "s9N3": 0.0,
+        "s13N1": 0.0,
+        "s13N2": 0.0,
+        "s13N3": 0.0,
+        "s17N1": 0.062,
+        "s17N2": 0.0,
+        "s17N3": 0.0
+      }
+    },
+    {
+      "env_steps": 400000,
+      "held_success": 0.0,
+      "gate_success": 0.0,
+      "frontier": 1,
+      "n_active": 60,
+      "wall_s": 398.7,
+      "held_by_cell": {
+        "s9N1": 0.0,
+        "s9N2": 0.0,
+        "s9N3": 0.0,
+        "s13N1": 0.0,
+        "s13N2": 0.0,
+        "s13N3": 0.0,
+        "s17N1": 0.0,
+        "s17N2": 0.0,
+        "s17N3": 0.0
+      }
+    },
+    {
+      "env_steps": 450000,
+      "held_success": 0.0,
+      "gate_success": 0.0,
+      "frontier": 1,
+      "n_active": 60,
+      "wall_s": 455.7,
+      "held_by_cell": {
+        "s9N1": 0.0,
+        "s9N2": 0.0,
+        "s9N3": 0.0,
+        "s13N1": 0.0,
+        "s13N2": 0.0,
+        "s13N3": 0.0,
+        "s17N1": 0.0,
+        "s17N2": 0.0,
+        "s17N3": 0.0
+      }
+    },
+    {
+      "env_steps": 500000,
+      "held_success": 0.0694,
+      "gate_success": 0.0694,
+      "frontier": 1,
+      "n_active": 60,
+      "wall_s": 497.8,
+      "held_by_cell": {
+        "s9N1": 0.062,
+        "s9N2": 0.0,
+        "s9N3": 0.0,
+        "s13N1": 0.0,
+        "s13N2": 0.25,
+        "s13N3": 0.0,
+        "s17N1": 0.062,
+        "s17N2": 0.25,
+        "s17N3": 0.0
+      }
+    },
+    {
+      "env_steps": 550000,
+      "held_success": 0.1319,
+      "gate_success": 0.0556,
+      "frontier": 1,
+      "n_active": 60,
+      "wall_s": 533.2,
+      "held_by_cell": {
+        "s9N1": 0.125,
+        "s9N2": 0.0,
+        "s9N3": 0.0,
+        "s13N1": 0.062,
+        "s13N2": 0.25,
+        "s13N3": 0.0,
+        "s17N1": 0.0,
+        "s17N2": 0.5,
+        "s17N3": 0.25
+      }
+    },
+    {
+      "env_steps": 600000,
+      "held_success": 0.0208,
+      "gate_success": 0.0,
+      "frontier": 1,
+      "n_active": 60,
+      "wall_s": 594.6,
+      "held_by_cell": {
+        "s9N1": 0.062,
+        "s9N2": 0.0,
+        "s9N3": 0.0,
+        "s13N1": 0.0,
+        "s13N2": 0.125,
+        "s13N3": 0.0,
+        "s17N1": 0.0,
+        "s17N2": 0.0,
+        "s17N3": 0.0
+      }
+    },
+    {
+      "env_steps": 650000,
+      "held_success": 0.0,
+      "gate_success": 0.0,
+      "frontier": 1,
+      "n_active": 60,
+      "wall_s": 664.9,
+      "held_by_cell": {
+        "s9N1": 0.0,
+        "s9N2": 0.0,
+        "s9N3": 0.0,
+        "s13N1": 0.0,
+        "s13N2": 0.0,
+        "s13N3": 0.0,
+        "s17N1": 0.0,
+        "s17N2": 0.0,
+        "s17N3": 0.0
+      }
+    },
+    {
+      "env_steps": 700000,
+      "held_success": 0.0,
+      "gate_success": 0.0,
+      "frontier": 1,
+      "n_active": 60,
+      "wall_s": 737.4,
+      "held_by_cell": {
+        "s9N1": 0.0,
+        "s9N2": 0.0,
+        "s9N3": 0.0,
+        "s13N1": 0.0,
+        "s13N2": 0.0,
+        "s13N3": 0.0,
+        "s17N1": 0.0,
+        "s17N2": 0.0,
+        "s17N3": 0.0
+      }
+    },
+    {
+      "env_steps": 750000,
+      "held_success": 0.0069,
+      "gate_success": 0.0139,
+      "frontier": 1,
+      "n_active": 60,
+      "wall_s": 804.9,
+      "held_by_cell": {
+        "s9N1": 0.0,
+        "s9N2": 0.0,
+        "s9N3": 0.0,
+        "s13N1": 0.0,
+        "s13N2": 0.0,
+        "s13N3": 0.0,
+        "s17N1": 0.0,
+        "s17N2": 0.062,
+        "s17N3": 0.0
+      }
+    },
+    {
+      "env_steps": 800000,
+      "held_success": 0.0069,
+      "gate_success": 0.0417,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 855.2,
+      "held_by_cell": {
+        "s9N1": 0.0,
+        "s9N2": 0.0,
+        "s9N3": 0.0,
+        "s13N1": 0.062,
+        "s13N2": 0.0,
+        "s13N3": 0.0,
+        "s17N1": 0.0,
+        "s17N2": 0.0,
+        "s17N3": 0.0
+      }
+    },
+    {
+      "env_steps": 850000,
+      "held_success": 0.0069,
+      "gate_success": 0.0069,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 901.8,
+      "held_by_cell": {
+        "s9N1": 0.0,
+        "s9N2": 0.0,
+        "s9N3": 0.062,
+        "s13N1": 0.0,
+        "s13N2": 0.0,
+        "s13N3": 0.0,
+        "s17N1": 0.0,
+        "s17N2": 0.0,
+        "s17N3": 0.0
+      }
+    },
+    {
+      "env_steps": 900000,
+      "held_success": 0.0,
+      "gate_success": 0.0,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 942.9,
+      "held_by_cell": {
+        "s9N1": 0.0,
+        "s9N2": 0.0,
+        "s9N3": 0.0,
+        "s13N1": 0.0,
+        "s13N2": 0.0,
+        "s13N3": 0.0,
+        "s17N1": 0.0,
+        "s17N2": 0.0,
+        "s17N3": 0.0
+      }
+    },
+    {
+      "env_steps": 950000,
+      "held_success": 0.0139,
+      "gate_success": 0.0139,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 992.7,
+      "held_by_cell": {
+        "s9N1": 0.062,
+        "s9N2": 0.0,
+        "s9N3": 0.0,
+        "s13N1": 0.0,
+        "s13N2": 0.062,
+        "s13N3": 0.0,
+        "s17N1": 0.0,
+        "s17N2": 0.0,
+        "s17N3": 0.0
+      }
+    },
+    {
+      "env_steps": 1000000,
+      "held_success": 0.0347,
+      "gate_success": 0.0347,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 1037.8,
+      "held_by_cell": {
+        "s9N1": 0.188,
+        "s9N2": 0.0,
+        "s9N3": 0.0,
+        "s13N1": 0.0,
+        "s13N2": 0.062,
+        "s13N3": 0.0,
+        "s17N1": 0.0,
+        "s17N2": 0.062,
+        "s17N3": 0.0
+      }
+    },
+    {
+      "env_steps": 1050000,
+      "held_success": 0.0139,
+      "gate_success": 0.0139,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 1073.3,
+      "held_by_cell": {
+        "s9N1": 0.0,
+        "s9N2": 0.0,
+        "s9N3": 0.0,
+        "s13N1": 0.125,
+        "s13N2": 0.0,
+        "s13N3": 0.0,
+        "s17N1": 0.0,
+        "s17N2": 0.0,
+        "s17N3": 0.0
+      }
+    },
+    {
+      "env_steps": 1100000,
+      "held_success": 0.0417,
+      "gate_success": 0.0417,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 1119.6,
+      "held_by_cell": {
+        "s9N1": 0.125,
+        "s9N2": 0.0,
+        "s9N3": 0.0,
+        "s13N1": 0.062,
+        "s13N2": 0.125,
+        "s13N3": 0.0,
+        "s17N1": 0.0,
+        "s17N2": 0.062,
+        "s17N3": 0.0
+      }
+    },
+    {
+      "env_steps": 1150000,
+      "held_success": 0.0347,
+      "gate_success": 0.0347,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 1153.0,
+      "held_by_cell": {
+        "s9N1": 0.125,
+        "s9N2": 0.0,
+        "s9N3": 0.0,
+        "s13N1": 0.0,
+        "s13N2": 0.062,
+        "s13N3": 0.0,
+        "s17N1": 0.062,
+        "s17N2": 0.0,
+        "s17N3": 0.062
+      }
+    },
+    {
+      "env_steps": 1200000,
+      "held_success": 0.0486,
+      "gate_success": 0.0486,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 1197.0,
+      "held_by_cell": {
+        "s9N1": 0.062,
+        "s9N2": 0.0,
+        "s9N3": 0.0,
+        "s13N1": 0.188,
+        "s13N2": 0.125,
+        "s13N3": 0.0,
+        "s17N1": 0.0,
+        "s17N2": 0.062,
+        "s17N3": 0.0
+      }
+    },
+    {
+      "env_steps": 1250000,
+      "held_success": 0.0208,
+      "gate_success": 0.0208,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 1248.3,
+      "held_by_cell": {
+        "s9N1": 0.0,
+        "s9N2": 0.0,
+        "s9N3": 0.0,
+        "s13N1": 0.125,
+        "s13N2": 0.0,
+        "s13N3": 0.0,
+        "s17N1": 0.0,
+        "s17N2": 0.062,
+        "s17N3": 0.0
+      }
+    },
+    {
+      "env_steps": 1300000,
+      "held_success": 0.0833,
+      "gate_success": 0.0833,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 1298.3,
+      "held_by_cell": {
+        "s9N1": 0.125,
+        "s9N2": 0.0,
+        "s9N3": 0.0,
+        "s13N1": 0.062,
+        "s13N2": 0.188,
+        "s13N3": 0.0,
+        "s17N1": 0.0,
+        "s17N2": 0.375,
+        "s17N3": 0.0
+      }
+    },
+    {
+      "env_steps": 1350000,
+      "held_success": 0.0417,
+      "gate_success": 0.0417,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 1351.5,
+      "held_by_cell": {
+        "s9N1": 0.062,
+        "s9N2": 0.0,
+        "s9N3": 0.0,
+        "s13N1": 0.188,
+        "s13N2": 0.0,
+        "s13N3": 0.0,
+        "s17N1": 0.0,
+        "s17N2": 0.125,
+        "s17N3": 0.0
+      }
+    },
+    {
+      "env_steps": 1400000,
+      "held_success": 0.1597,
+      "gate_success": 0.1597,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 1402.9,
+      "held_by_cell": {
+        "s9N1": 0.25,
+        "s9N2": 0.0,
+        "s9N3": 0.0,
+        "s13N1": 0.188,
+        "s13N2": 0.25,
+        "s13N3": 0.0,
+        "s17N1": 0.0,
+        "s17N2": 0.5,
+        "s17N3": 0.25
+      }
+    },
+    {
+      "env_steps": 1450000,
+      "held_success": 0.1111,
+      "gate_success": 0.1111,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 1496.7,
+      "held_by_cell": {
+        "s9N1": 0.188,
+        "s9N2": 0.0,
+        "s9N3": 0.0,
+        "s13N1": 0.25,
+        "s13N2": 0.062,
+        "s13N3": 0.0,
+        "s17N1": 0.0,
+        "s17N2": 0.438,
+        "s17N3": 0.062
+      }
+    },
+    {
+      "env_steps": 1500000,
+      "held_success": 0.1042,
+      "gate_success": 0.1042,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 1569.6,
+      "held_by_cell": {
+        "s9N1": 0.25,
+        "s9N2": 0.062,
+        "s9N3": 0.0,
+        "s13N1": 0.25,
+        "s13N2": 0.25,
+        "s13N3": 0.0,
+        "s17N1": 0.0,
+        "s17N2": 0.125,
+        "s17N3": 0.0
+      }
+    }
+  ],
+  "scoring_method": "uniform random score per layout (seeded), curriculum mechanics on",
+  "args": {
+    "condition": "random_curriculum",
+    "seed": 12,
+    "results_dir": "results_v2_lc91317",
+    "sizes": [
+      9,
+      13,
+      17
+    ],
+    "tiers": [
+      1,
+      2,
+      3
+    ],
+    "n_seeds": 80,
+    "cap_per_cell": 10,
+    "n_bins": 3,
+    "eval_seed_start": 100000,
+    "eval_n_seeds": 200,
+    "eval_cap_per_cell": 4,
+    "eval_episodes": 4,
+    "gate": 0.55,
+    "gate_episodes": 4,
+    "gate_layouts": 18,
+    "bin_deadline_frac": 0.25,
+    "target": 0.3,
+    "total_steps": 1500000,
+    "eval_every": 50000,
+    "no_restrict_actions": false,
+    "probe_k": 8,
+    "adapt_episodes": 3,
+    "oracle_steps": 600000,
+    "oracle_ref_seeds": 3,
+    "oracle_eval_episodes": 20,
+    "build_oracle_only": false,
+    "quick": false
+  },
+  "code": {
+    "curriculum_harness.py": "d423df0646c92627b9d6d027346640ad",
+    "difficulty_scoring.py": "f75c116a63850ec3f17ef9e5ed501c93",
+    "git_head": "02bcc8bea372c58a7f0595e77d9f4bc9372ace54"
+  },
+  "initial_bins": [
+    {
+      "s9N1": 5,
+      "s9N2": 5,
+      "s9N3": 2,
+      "s13N1": 4,
+      "s13N2": 2,
+      "s13N3": 3,
+      "s17N1": 2,
+      "s17N2": 4,
+      "s17N3": 3
+    },
+    {
+      "s9N1": 2,
+      "s9N2": 4,
+      "s9N3": 3,
+      "s13N1": 2,
+      "s13N2": 6,
+      "s13N3": 1,
+      "s17N1": 5,
+      "s17N2": 2,
+      "s17N3": 5
+    },
+    {
+      "s9N1": 3,
+      "s9N2": 1,
+      "s9N3": 5,
+      "s13N1": 4,
+      "s13N2": 2,
+      "s13N3": 6,
+      "s17N1": 3,
+      "s17N2": 4,
+      "s17N3": 2
+    }
+  ],
+  "score_tie_fraction": 0.0,
+  "unlocks": [
+    {
+      "env_steps": 400000,
+      "to_frontier": 1,
+      "kind": "deadline",
+      "gate_success": 0.0
+    },
+    {
+      "env_steps": 800000,
+      "to_frontier": 2,
+      "kind": "deadline",
+      "gate_success": 0.0417
+    }
+  ]
+}

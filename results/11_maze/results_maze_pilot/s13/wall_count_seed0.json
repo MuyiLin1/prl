@@ -1,0 +1,481 @@
+{
+  "condition": "wall_count",
+  "seed": 0,
+  "sizes": [
+    13
+  ],
+  "tiers": [
+    1,
+    2,
+    3
+  ],
+  "total_steps": 1500000,
+  "n_bins": 3,
+  "target": 0.3,
+  "steps_to_target": 50000,
+  "final_held_success": 0.8333,
+  "wall_s": 1556.5,
+  "n_train": 90,
+  "n_eval": 36,
+  "curve": [
+    {
+      "env_steps": 50000,
+      "held_success": 0.9236,
+      "gate_success": 0.9861,
+      "frontier": 1,
+      "n_active": 60,
+      "wall_s": 75.8,
+      "held_by_cell": {
+        "s13N0": 1.0,
+        "s13N1": 0.967,
+        "s13N2": 0.719
+      }
+    },
+    {
+      "env_steps": 100000,
+      "held_success": 0.8194,
+      "gate_success": 0.8611,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 187.8,
+      "held_by_cell": {
+        "s13N0": 0.923,
+        "s13N1": 0.833,
+        "s13N2": 0.625
+      }
+    },
+    {
+      "env_steps": 150000,
+      "held_success": 0.8333,
+      "gate_success": 0.8333,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 307.0,
+      "held_by_cell": {
+        "s13N0": 0.942,
+        "s13N1": 0.833,
+        "s13N2": 0.656
+      }
+    },
+    {
+      "env_steps": 200000,
+      "held_success": 0.8264,
+      "gate_success": 0.8264,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 415.9,
+      "held_by_cell": {
+        "s13N0": 0.942,
+        "s13N1": 0.817,
+        "s13N2": 0.656
+      }
+    },
+    {
+      "env_steps": 250000,
+      "held_success": 0.7778,
+      "gate_success": 0.7778,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 501.3,
+      "held_by_cell": {
+        "s13N0": 0.846,
+        "s13N1": 0.817,
+        "s13N2": 0.594
+      }
+    },
+    {
+      "env_steps": 300000,
+      "held_success": 0.9306,
+      "gate_success": 0.9306,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 561.0,
+      "held_by_cell": {
+        "s13N0": 0.981,
+        "s13N1": 0.967,
+        "s13N2": 0.781
+      }
+    },
+    {
+      "env_steps": 350000,
+      "held_success": 0.8264,
+      "gate_success": 0.8264,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 597.7,
+      "held_by_cell": {
+        "s13N0": 0.923,
+        "s13N1": 0.783,
+        "s13N2": 0.75
+      }
+    },
+    {
+      "env_steps": 400000,
+      "held_success": 0.7986,
+      "gate_success": 0.7986,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 637.5,
+      "held_by_cell": {
+        "s13N0": 0.904,
+        "s13N1": 0.75,
+        "s13N2": 0.719
+      }
+    },
+    {
+      "env_steps": 450000,
+      "held_success": 0.8958,
+      "gate_success": 0.8958,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 692.2,
+      "held_by_cell": {
+        "s13N0": 0.981,
+        "s13N1": 0.9,
+        "s13N2": 0.75
+      }
+    },
+    {
+      "env_steps": 500000,
+      "held_success": 0.7986,
+      "gate_success": 0.7986,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 781.0,
+      "held_by_cell": {
+        "s13N0": 0.923,
+        "s13N1": 0.783,
+        "s13N2": 0.625
+      }
+    },
+    {
+      "env_steps": 550000,
+      "held_success": 0.7847,
+      "gate_success": 0.7847,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 897.0,
+      "held_by_cell": {
+        "s13N0": 0.923,
+        "s13N1": 0.767,
+        "s13N2": 0.594
+      }
+    },
+    {
+      "env_steps": 600000,
+      "held_success": 0.7917,
+      "gate_success": 0.7917,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 947.0,
+      "held_by_cell": {
+        "s13N0": 0.923,
+        "s13N1": 0.8,
+        "s13N2": 0.562
+      }
+    },
+    {
+      "env_steps": 650000,
+      "held_success": 0.8056,
+      "gate_success": 0.8056,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 981.7,
+      "held_by_cell": {
+        "s13N0": 0.923,
+        "s13N1": 0.883,
+        "s13N2": 0.469
+      }
+    },
+    {
+      "env_steps": 700000,
+      "held_success": 0.8958,
+      "gate_success": 0.8958,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 1014.4,
+      "held_by_cell": {
+        "s13N0": 0.942,
+        "s13N1": 0.917,
+        "s13N2": 0.781
+      }
+    },
+    {
+      "env_steps": 750000,
+      "held_success": 0.7986,
+      "gate_success": 0.7986,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 1049.8,
+      "held_by_cell": {
+        "s13N0": 0.923,
+        "s13N1": 0.817,
+        "s13N2": 0.562
+      }
+    },
+    {
+      "env_steps": 800000,
+      "held_success": 0.8056,
+      "gate_success": 0.8056,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 1086.1,
+      "held_by_cell": {
+        "s13N0": 0.923,
+        "s13N1": 0.833,
+        "s13N2": 0.562
+      }
+    },
+    {
+      "env_steps": 850000,
+      "held_success": 0.7917,
+      "gate_success": 0.7917,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 1122.3,
+      "held_by_cell": {
+        "s13N0": 0.885,
+        "s13N1": 0.833,
+        "s13N2": 0.562
+      }
+    },
+    {
+      "env_steps": 900000,
+      "held_success": 0.8472,
+      "gate_success": 0.8472,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 1157.1,
+      "held_by_cell": {
+        "s13N0": 0.923,
+        "s13N1": 0.9,
+        "s13N2": 0.625
+      }
+    },
+    {
+      "env_steps": 950000,
+      "held_success": 0.8542,
+      "gate_success": 0.8542,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 1191.6,
+      "held_by_cell": {
+        "s13N0": 0.923,
+        "s13N1": 0.917,
+        "s13N2": 0.625
+      }
+    },
+    {
+      "env_steps": 1000000,
+      "held_success": 0.9028,
+      "gate_success": 0.9028,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 1224.5,
+      "held_by_cell": {
+        "s13N0": 0.942,
+        "s13N1": 0.95,
+        "s13N2": 0.75
+      }
+    },
+    {
+      "env_steps": 1050000,
+      "held_success": 0.8542,
+      "gate_success": 0.8542,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 1258.2,
+      "held_by_cell": {
+        "s13N0": 0.923,
+        "s13N1": 0.883,
+        "s13N2": 0.688
+      }
+    },
+    {
+      "env_steps": 1100000,
+      "held_success": 0.875,
+      "gate_success": 0.875,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 1291.4,
+      "held_by_cell": {
+        "s13N0": 0.962,
+        "s13N1": 0.9,
+        "s13N2": 0.688
+      }
+    },
+    {
+      "env_steps": 1150000,
+      "held_success": 0.8958,
+      "gate_success": 0.8958,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 1324.3,
+      "held_by_cell": {
+        "s13N0": 0.923,
+        "s13N1": 0.95,
+        "s13N2": 0.75
+      }
+    },
+    {
+      "env_steps": 1200000,
+      "held_success": 0.9028,
+      "gate_success": 0.9028,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 1357.1,
+      "held_by_cell": {
+        "s13N0": 1.0,
+        "s13N1": 0.95,
+        "s13N2": 0.656
+      }
+    },
+    {
+      "env_steps": 1250000,
+      "held_success": 0.8819,
+      "gate_success": 0.8819,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 1390.2,
+      "held_by_cell": {
+        "s13N0": 0.923,
+        "s13N1": 0.917,
+        "s13N2": 0.75
+      }
+    },
+    {
+      "env_steps": 1300000,
+      "held_success": 0.8611,
+      "gate_success": 0.8611,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 1423.5,
+      "held_by_cell": {
+        "s13N0": 0.923,
+        "s13N1": 0.933,
+        "s13N2": 0.625
+      }
+    },
+    {
+      "env_steps": 1350000,
+      "held_success": 0.9028,
+      "gate_success": 0.9028,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 1455.9,
+      "held_by_cell": {
+        "s13N0": 0.962,
+        "s13N1": 0.967,
+        "s13N2": 0.688
+      }
+    },
+    {
+      "env_steps": 1400000,
+      "held_success": 0.8333,
+      "gate_success": 0.8333,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 1490.2,
+      "held_by_cell": {
+        "s13N0": 0.942,
+        "s13N1": 0.867,
+        "s13N2": 0.594
+      }
+    },
+    {
+      "env_steps": 1450000,
+      "held_success": 0.875,
+      "gate_success": 0.875,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 1522.9,
+      "held_by_cell": {
+        "s13N0": 0.923,
+        "s13N1": 0.9,
+        "s13N2": 0.75
+      }
+    },
+    {
+      "env_steps": 1500000,
+      "held_success": 0.8333,
+      "gate_success": 0.8333,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 1556.5,
+      "held_by_cell": {
+        "s13N0": 0.885,
+        "s13N1": 0.917,
+        "s13N2": 0.594
+      }
+    }
+  ],
+  "scoring_method": "interior wall count (+ seeded tiebreak)",
+  "args": {
+    "condition": "wall_count",
+    "seed": 0,
+    "results_dir": "results_maze_pilot/s13",
+    "sizes": [
+      13
+    ],
+    "tiers": [
+      1,
+      2,
+      3
+    ],
+    "n_seeds": 90,
+    "cap_per_cell": 10,
+    "n_bins": 3,
+    "eval_seed_start": 100000,
+    "eval_n_seeds": 36,
+    "eval_cap_per_cell": 4,
+    "eval_episodes": 4,
+    "gate": 0.55,
+    "gate_episodes": 4,
+    "gate_layouts": 18,
+    "bin_deadline_frac": 0.25,
+    "target": 0.3,
+    "total_steps": 1500000,
+    "eval_every": 50000,
+    "no_restrict_actions": false,
+    "probe_k": 8,
+    "adapt_episodes": 3,
+    "oracle_steps": 600000,
+    "oracle_ref_seeds": 3,
+    "oracle_eval_episodes": 20,
+    "build_oracle_only": false,
+    "quick": false
+  },
+  "code": {
+    "curriculum_harness.py": "d423df0646c92627b9d6d027346640ad",
+    "difficulty_scoring.py": "f75c116a63850ec3f17ef9e5ed501c93",
+    "git_head": "02bcc8bea372c58a7f0595e77d9f4bc9372ace54"
+  },
+  "initial_bins": [
+    {
+      "s13N0": 28,
+      "s13N1": 2
+    },
+    {
+      "s13N1": 30
+    },
+    {
+      "s13N1": 5,
+      "s13N2": 25
+    }
+  ],
+  "score_tie_fraction": 0.022222222222222223,
+  "unlocks": [
+    {
+      "env_steps": 50000,
+      "to_frontier": 1,
+      "kind": "gate",
+      "gate_success": 0.9861
+    },
+    {
+      "env_steps": 100000,
+      "to_frontier": 2,
+      "kind": "gate",
+      "gate_success": 0.8611
+    }
+  ]
+}

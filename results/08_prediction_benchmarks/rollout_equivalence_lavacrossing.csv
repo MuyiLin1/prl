@@ -1,0 +1,20 @@
+pool,method,k,rho
+p7911,LLM Qwen7B zero-shot (0 rollouts),0,0.19758369478556484
+p7911,grader (0 rollouts),0,0.3976834994939282
+p7911,"grader + LLM (RF, CV, 0 rollouts)",0,0.3802287646387233
+p7911,grader + LLM rank-avg (0 rollouts),0,0.39237312675913355
+p7911,knobs size+N (0 rollouts),0,0.2391425240676658
+p7911,trained-agent rollouts,1,0.4173837974084899
+p7911,trained-agent rollouts,2,0.43826353430002285
+p7911,trained-agent rollouts,4,0.4560175920748869
+p7911,trained-agent rollouts,8,0.46859390191774997
+p7911,trained-agent rollouts,16,0.48564439643571305
+p91317,LLM Qwen7B zero-shot (0 rollouts),0,0.2724482795430169
+p91317,grader (0 rollouts),0,0.4611191838929211
+p91317,grader + LLM rank-avg (0 rollouts),0,0.4581223684795434
+p91317,knobs size+N (0 rollouts),0,0.3536485336565827
+p91317,trained-agent rollouts,1,0.3588709392752302
+p91317,trained-agent rollouts,2,0.3712070998220816
+p91317,trained-agent rollouts,4,0.4039027538723325
+p91317,trained-agent rollouts,8,0.43310709338097625
+p91317,trained-agent rollouts,16,0.4388806131214567

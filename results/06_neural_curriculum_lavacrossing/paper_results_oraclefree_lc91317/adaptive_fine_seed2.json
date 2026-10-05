@@ -1,0 +1,594 @@
+{
+  "condition": "adaptive_fine",
+  "seed": 2,
+  "sizes": [
+    9,
+    13,
+    17
+  ],
+  "tiers": [
+    1,
+    2,
+    3
+  ],
+  "total_steps": 1500000,
+  "n_bins": 3,
+  "target": 0.3,
+  "steps_to_target": 500000,
+  "final_held_success": 0.0,
+  "wall_s": 3163.6,
+  "n_train": 90,
+  "n_eval": 36,
+  "curve": [
+    {
+      "env_steps": 50000,
+      "held_success": 0.0069,
+      "gate_success": 0.0139,
+      "frontier": 0,
+      "n_active": 30,
+      "wall_s": 75.9,
+      "held_by_cell": {
+        "s9N1": 0.0,
+        "s9N2": 0.0,
+        "s9N3": 0.0,
+        "s13N1": 0.062,
+        "s13N2": 0.0,
+        "s13N3": 0.0,
+        "s17N1": 0.0,
+        "s17N2": 0.0,
+        "s17N3": 0.0
+      }
+    },
+    {
+      "env_steps": 100000,
+      "held_success": 0.0139,
+      "gate_success": 0.0833,
+      "frontier": 0,
+      "n_active": 30,
+      "wall_s": 148.7,
+      "held_by_cell": {
+        "s9N1": 0.0,
+        "s9N2": 0.0,
+        "s9N3": 0.0,
+        "s13N1": 0.0,
+        "s13N2": 0.0,
+        "s13N3": 0.0,
+        "s17N1": 0.0,
+        "s17N2": 0.125,
+        "s17N3": 0.0
+      }
+    },
+    {
+      "env_steps": 150000,
+      "held_success": 0.1389,
+      "gate_success": 0.2778,
+      "frontier": 0,
+      "n_active": 30,
+      "wall_s": 223.2,
+      "held_by_cell": {
+        "s9N1": 0.25,
+        "s9N2": 0.0,
+        "s9N3": 0.0,
+        "s13N1": 0.0,
+        "s13N2": 0.25,
+        "s13N3": 0.0,
+        "s17N1": 0.0,
+        "s17N2": 0.5,
+        "s17N3": 0.25
+      }
+    },
+    {
+      "env_steps": 200000,
+      "held_success": 0.1389,
+      "gate_success": 0.1667,
+      "frontier": 0,
+      "n_active": 30,
+      "wall_s": 334.7,
+      "held_by_cell": {
+        "s9N1": 0.25,
+        "s9N2": 0.0,
+        "s9N3": 0.0,
+        "s13N1": 0.0,
+        "s13N2": 0.25,
+        "s13N3": 0.0,
+        "s17N1": 0.0,
+        "s17N2": 0.5,
+        "s17N3": 0.25
+      }
+    },
+    {
+      "env_steps": 250000,
+      "held_success": 0.1181,
+      "gate_success": 0.2361,
+      "frontier": 0,
+      "n_active": 30,
+      "wall_s": 450.0,
+      "held_by_cell": {
+        "s9N1": 0.25,
+        "s9N2": 0.0,
+        "s9N3": 0.0,
+        "s13N1": 0.0,
+        "s13N2": 0.188,
+        "s13N3": 0.0,
+        "s17N1": 0.0,
+        "s17N2": 0.375,
+        "s17N3": 0.25
+      }
+    },
+    {
+      "env_steps": 300000,
+      "held_success": 0.1458,
+      "gate_success": 0.1389,
+      "frontier": 0,
+      "n_active": 30,
+      "wall_s": 587.1,
+      "held_by_cell": {
+        "s9N1": 0.25,
+        "s9N2": 0.0,
+        "s9N3": 0.0,
+        "s13N1": 0.062,
+        "s13N2": 0.25,
+        "s13N3": 0.0,
+        "s17N1": 0.0,
+        "s17N2": 0.5,
+        "s17N3": 0.25
+      }
+    },
+    {
+      "env_steps": 350000,
+      "held_success": 0.1181,
+      "gate_success": 0.3611,
+      "frontier": 0,
+      "n_active": 30,
+      "wall_s": 685.7,
+      "held_by_cell": {
+        "s9N1": 0.25,
+        "s9N2": 0.0,
+        "s9N3": 0.0,
+        "s13N1": 0.188,
+        "s13N2": 0.25,
+        "s13N3": 0.0,
+        "s17N1": 0.0,
+        "s17N2": 0.188,
+        "s17N3": 0.188
+      }
+    },
+    {
+      "env_steps": 400000,
+      "held_success": 0.2014,
+      "gate_success": 0.4861,
+      "frontier": 1,
+      "n_active": 60,
+      "wall_s": 803.0,
+      "held_by_cell": {
+        "s9N1": 0.312,
+        "s9N2": 0.0,
+        "s9N3": 0.0,
+        "s13N1": 0.188,
+        "s13N2": 0.375,
+        "s13N3": 0.0,
+        "s17N1": 0.125,
+        "s17N2": 0.562,
+        "s17N3": 0.25
+      }
+    },
+    {
+      "env_steps": 450000,
+      "held_success": 0.1736,
+      "gate_success": 0.2083,
+      "frontier": 1,
+      "n_active": 60,
+      "wall_s": 906.5,
+      "held_by_cell": {
+        "s9N1": 0.25,
+        "s9N2": 0.062,
+        "s9N3": 0.0,
+        "s13N1": 0.125,
+        "s13N2": 0.0,
+        "s13N3": 0.0,
+        "s17N1": 0.688,
+        "s17N2": 0.438,
+        "s17N3": 0.0
+      }
+    },
+    {
+      "env_steps": 500000,
+      "held_success": 0.3403,
+      "gate_success": 0.4722,
+      "frontier": 1,
+      "n_active": 60,
+      "wall_s": 1009.5,
+      "held_by_cell": {
+        "s9N1": 0.625,
+        "s9N2": 0.0,
+        "s9N3": 0.0,
+        "s13N1": 0.438,
+        "s13N2": 0.375,
+        "s13N3": 0.0,
+        "s17N1": 0.625,
+        "s17N2": 0.75,
+        "s17N3": 0.25
+      }
+    },
+    {
+      "env_steps": 550000,
+      "held_success": 0.5417,
+      "gate_success": 0.5833,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 1098.6,
+      "held_by_cell": {
+        "s9N1": 0.75,
+        "s9N2": 0.188,
+        "s9N3": 0.188,
+        "s13N1": 0.812,
+        "s13N2": 0.688,
+        "s13N3": 0.062,
+        "s17N1": 0.75,
+        "s17N2": 1.0,
+        "s17N3": 0.438
+      }
+    },
+    {
+      "env_steps": 600000,
+      "held_success": 0.5278,
+      "gate_success": 0.5278,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 1176.7,
+      "held_by_cell": {
+        "s9N1": 0.75,
+        "s9N2": 0.25,
+        "s9N3": 0.375,
+        "s13N1": 0.688,
+        "s13N2": 0.688,
+        "s13N3": 0.062,
+        "s17N1": 0.688,
+        "s17N2": 0.875,
+        "s17N3": 0.375
+      }
+    },
+    {
+      "env_steps": 650000,
+      "held_success": 0.5208,
+      "gate_success": 0.5208,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 1250.4,
+      "held_by_cell": {
+        "s9N1": 0.625,
+        "s9N2": 0.312,
+        "s9N3": 0.5,
+        "s13N1": 0.688,
+        "s13N2": 0.75,
+        "s13N3": 0.25,
+        "s17N1": 0.562,
+        "s17N2": 0.688,
+        "s17N3": 0.312
+      }
+    },
+    {
+      "env_steps": 700000,
+      "held_success": 0.0347,
+      "gate_success": 0.0347,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 1360.7,
+      "held_by_cell": {
+        "s9N1": 0.0,
+        "s9N2": 0.0,
+        "s9N3": 0.0,
+        "s13N1": 0.062,
+        "s13N2": 0.0,
+        "s13N3": 0.0,
+        "s17N1": 0.0,
+        "s17N2": 0.25,
+        "s17N3": 0.0
+      }
+    },
+    {
+      "env_steps": 750000,
+      "held_success": 0.1389,
+      "gate_success": 0.1389,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 1458.9,
+      "held_by_cell": {
+        "s9N1": 0.25,
+        "s9N2": 0.0,
+        "s9N3": 0.0,
+        "s13N1": 0.188,
+        "s13N2": 0.25,
+        "s13N3": 0.0,
+        "s17N1": 0.0,
+        "s17N2": 0.438,
+        "s17N3": 0.125
+      }
+    },
+    {
+      "env_steps": 800000,
+      "held_success": 0.0069,
+      "gate_success": 0.0069,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 1574.2,
+      "held_by_cell": {
+        "s9N1": 0.0,
+        "s9N2": 0.0,
+        "s9N3": 0.0,
+        "s13N1": 0.0,
+        "s13N2": 0.0,
+        "s13N3": 0.0,
+        "s17N1": 0.0,
+        "s17N2": 0.062,
+        "s17N3": 0.0
+      }
+    },
+    {
+      "env_steps": 850000,
+      "held_success": 0.1319,
+      "gate_success": 0.1319,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 1673.7,
+      "held_by_cell": {
+        "s9N1": 0.188,
+        "s9N2": 0.0,
+        "s9N3": 0.0,
+        "s13N1": 0.0,
+        "s13N2": 0.25,
+        "s13N3": 0.0,
+        "s17N1": 0.0,
+        "s17N2": 0.5,
+        "s17N3": 0.25
+      }
+    },
+    {
+      "env_steps": 900000,
+      "held_success": 0.0,
+      "gate_success": 0.0,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 1790.8,
+      "held_by_cell": {
+        "s9N1": 0.0,
+        "s9N2": 0.0,
+        "s9N3": 0.0,
+        "s13N1": 0.0,
+        "s13N2": 0.0,
+        "s13N3": 0.0,
+        "s17N1": 0.0,
+        "s17N2": 0.0,
+        "s17N3": 0.0
+      }
+    },
+    {
+      "env_steps": 950000,
+      "held_success": 0.0,
+      "gate_success": 0.0,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 1906.6,
+      "held_by_cell": {
+        "s9N1": 0.0,
+        "s9N2": 0.0,
+        "s9N3": 0.0,
+        "s13N1": 0.0,
+        "s13N2": 0.0,
+        "s13N3": 0.0,
+        "s17N1": 0.0,
+        "s17N2": 0.0,
+        "s17N3": 0.0
+      }
+    },
+    {
+      "env_steps": 1000000,
+      "held_success": 0.0,
+      "gate_success": 0.0,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 2017.1,
+      "held_by_cell": {
+        "s9N1": 0.0,
+        "s9N2": 0.0,
+        "s9N3": 0.0,
+        "s13N1": 0.0,
+        "s13N2": 0.0,
+        "s13N3": 0.0,
+        "s17N1": 0.0,
+        "s17N2": 0.0,
+        "s17N3": 0.0
+      }
+    },
+    {
+      "env_steps": 1050000,
+      "held_success": 0.0,
+      "gate_success": 0.0,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 2121.8,
+      "held_by_cell": {
+        "s9N1": 0.0,
+        "s9N2": 0.0,
+        "s9N3": 0.0,
+        "s13N1": 0.0,
+        "s13N2": 0.0,
+        "s13N3": 0.0,
+        "s17N1": 0.0,
+        "s17N2": 0.0,
+        "s17N3": 0.0
+      }
+    },
+    {
+      "env_steps": 1100000,
+      "held_success": 0.0,
+      "gate_success": 0.0,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 2239.6,
+      "held_by_cell": {
+        "s9N1": 0.0,
+        "s9N2": 0.0,
+        "s9N3": 0.0,
+        "s13N1": 0.0,
+        "s13N2": 0.0,
+        "s13N3": 0.0,
+        "s17N1": 0.0,
+        "s17N2": 0.0,
+        "s17N3": 0.0
+      }
+    },
+    {
+      "env_steps": 1150000,
+      "held_success": 0.0,
+      "gate_success": 0.0,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 2355.7,
+      "held_by_cell": {
+        "s9N1": 0.0,
+        "s9N2": 0.0,
+        "s9N3": 0.0,
+        "s13N1": 0.0,
+        "s13N2": 0.0,
+        "s13N3": 0.0,
+        "s17N1": 0.0,
+        "s17N2": 0.0,
+        "s17N3": 0.0
+      }
+    },
+    {
+      "env_steps": 1200000,
+      "held_success": 0.0,
+      "gate_success": 0.0,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 2470.4,
+      "held_by_cell": {
+        "s9N1": 0.0,
+        "s9N2": 0.0,
+        "s9N3": 0.0,
+        "s13N1": 0.0,
+        "s13N2": 0.0,
+        "s13N3": 0.0,
+        "s17N1": 0.0,
+        "s17N2": 0.0,
+        "s17N3": 0.0
+      }
+    },
+    {
+      "env_steps": 1250000,
+      "held_success": 0.0,
+      "gate_success": 0.0,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 2586.4,
+      "held_by_cell": {
+        "s9N1": 0.0,
+        "s9N2": 0.0,
+        "s9N3": 0.0,
+        "s13N1": 0.0,
+        "s13N2": 0.0,
+        "s13N3": 0.0,
+        "s17N1": 0.0,
+        "s17N2": 0.0,
+        "s17N3": 0.0
+      }
+    },
+    {
+      "env_steps": 1300000,
+      "held_success": 0.0,
+      "gate_success": 0.0,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 2702.1,
+      "held_by_cell": {
+        "s9N1": 0.0,
+        "s9N2": 0.0,
+        "s9N3": 0.0,
+        "s13N1": 0.0,
+        "s13N2": 0.0,
+        "s13N3": 0.0,
+        "s17N1": 0.0,
+        "s17N2": 0.0,
+        "s17N3": 0.0
+      }
+    },
+    {
+      "env_steps": 1350000,
+      "held_success": 0.0,
+      "gate_success": 0.0,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 2817.8,
+      "held_by_cell": {
+        "s9N1": 0.0,
+        "s9N2": 0.0,
+        "s9N3": 0.0,
+        "s13N1": 0.0,
+        "s13N2": 0.0,
+        "s13N3": 0.0,
+        "s17N1": 0.0,
+        "s17N2": 0.0,
+        "s17N3": 0.0
+      }
+    },
+    {
+      "env_steps": 1400000,
+      "held_success": 0.0,
+      "gate_success": 0.0,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 2933.1,
+      "held_by_cell": {
+        "s9N1": 0.0,
+        "s9N2": 0.0,
+        "s9N3": 0.0,
+        "s13N1": 0.0,
+        "s13N2": 0.0,
+        "s13N3": 0.0,
+        "s17N1": 0.0,
+        "s17N2": 0.0,
+        "s17N3": 0.0
+      }
+    },
+    {
+      "env_steps": 1450000,
+      "held_success": 0.0,
+      "gate_success": 0.0,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 3049.0,
+      "held_by_cell": {
+        "s9N1": 0.0,
+        "s9N2": 0.0,
+        "s9N3": 0.0,
+        "s13N1": 0.0,
+        "s13N2": 0.0,
+        "s13N3": 0.0,
+        "s17N1": 0.0,
+        "s17N2": 0.0,
+        "s17N3": 0.0
+      }
+    },
+    {
+      "env_steps": 1500000,
+      "held_success": 0.0,
+      "gate_success": 0.0,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 3163.6,
+      "held_by_cell": {
+        "s9N1": 0.0,
+        "s9N2": 0.0,
+        "s9N3": 0.0,
+        "s13N1": 0.0,
+        "s13N2": 0.0,
+        "s13N3": 0.0,
+        "s17N1": 0.0,
+        "s17N2": 0.0,
+        "s17N3": 0.0
+      }
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+label,seed,metric,value
+log A* nodes expanded,0,Spearman,0.7691922559784342
+log A* nodes expanded,1,Spearman,0.7729006739645782
+log A* nodes expanded,2,Spearman,0.777067666892857
+A* optimal solution length,0,Spearman,0.7805181293603412
+A* optimal solution length,1,Spearman,0.781815127656315
+A* optimal solution length,2,Spearman,0.7590466110311226
+Boxoban tier (medium = DRC agents failed),0,AUC,0.8218755555555556
+Boxoban tier (medium = DRC agents failed),1,AUC,0.8224648888888889
+Boxoban tier (medium = DRC agents failed),2,AUC,0.8226199999999999

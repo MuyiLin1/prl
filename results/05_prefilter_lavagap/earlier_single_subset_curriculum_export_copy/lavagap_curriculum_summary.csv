@@ -1,0 +1,4 @@
+condition,heldout_reward_mean,heldout_reward_std,heldout_solve_mean,train_size,env_evals_mean
+full,0.20833333333333334,,0.0,24,456.0
+curated,0.20833333333333334,,0.0,8,152.0
+random,0.20833333333333334,,0.0,8,152.0

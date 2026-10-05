@@ -1,0 +1,332 @@
+{
+  "condition": "flat",
+  "seed": 6,
+  "sizes": [
+    7,
+    9,
+    11
+  ],
+  "tiers": [
+    1,
+    2,
+    3
+  ],
+  "total_steps": 600000,
+  "n_bins": 3,
+  "target": 0.3,
+  "steps_to_target": null,
+  "final_held_success": 0.0,
+  "wall_s": 438.8,
+  "n_train": 90,
+  "n_eval": 36,
+  "curve": [
+    {
+      "env_steps": 50000,
+      "held_success": 0.0,
+      "gate_success": 0.0,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 35.5,
+      "held_by_cell": {
+        "s7N1": 0.0,
+        "s7N2": 0.0,
+        "s7N3": 0.0,
+        "s9N1": 0.0,
+        "s9N2": 0.0,
+        "s9N3": 0.0,
+        "s11N1": 0.0,
+        "s11N2": 0.0,
+        "s11N3": 0.0
+      }
+    },
+    {
+      "env_steps": 100000,
+      "held_success": 0.0,
+      "gate_success": 0.0,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 74.1,
+      "held_by_cell": {
+        "s7N1": 0.0,
+        "s7N2": 0.0,
+        "s7N3": 0.0,
+        "s9N1": 0.0,
+        "s9N2": 0.0,
+        "s9N3": 0.0,
+        "s11N1": 0.0,
+        "s11N2": 0.0,
+        "s11N3": 0.0
+      }
+    },
+    {
+      "env_steps": 150000,
+      "held_success": 0.0,
+      "gate_success": 0.0,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 112.1,
+      "held_by_cell": {
+        "s7N1": 0.0,
+        "s7N2": 0.0,
+        "s7N3": 0.0,
+        "s9N1": 0.0,
+        "s9N2": 0.0,
+        "s9N3": 0.0,
+        "s11N1": 0.0,
+        "s11N2": 0.0,
+        "s11N3": 0.0
+      }
+    },
+    {
+      "env_steps": 200000,
+      "held_success": 0.0,
+      "gate_success": 0.0,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 147.7,
+      "held_by_cell": {
+        "s7N1": 0.0,
+        "s7N2": 0.0,
+        "s7N3": 0.0,
+        "s9N1": 0.0,
+        "s9N2": 0.0,
+        "s9N3": 0.0,
+        "s11N1": 0.0,
+        "s11N2": 0.0,
+        "s11N3": 0.0
+      }
+    },
+    {
+      "env_steps": 250000,
+      "held_success": 0.0,
+      "gate_success": 0.0,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 186.3,
+      "held_by_cell": {
+        "s7N1": 0.0,
+        "s7N2": 0.0,
+        "s7N3": 0.0,
+        "s9N1": 0.0,
+        "s9N2": 0.0,
+        "s9N3": 0.0,
+        "s11N1": 0.0,
+        "s11N2": 0.0,
+        "s11N3": 0.0
+      }
+    },
+    {
+      "env_steps": 300000,
+      "held_success": 0.0,
+      "gate_success": 0.0,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 224.1,
+      "held_by_cell": {
+        "s7N1": 0.0,
+        "s7N2": 0.0,
+        "s7N3": 0.0,
+        "s9N1": 0.0,
+        "s9N2": 0.0,
+        "s9N3": 0.0,
+        "s11N1": 0.0,
+        "s11N2": 0.0,
+        "s11N3": 0.0
+      }
+    },
+    {
+      "env_steps": 350000,
+      "held_success": 0.0,
+      "gate_success": 0.0,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 257.5,
+      "held_by_cell": {
+        "s7N1": 0.0,
+        "s7N2": 0.0,
+        "s7N3": 0.0,
+        "s9N1": 0.0,
+        "s9N2": 0.0,
+        "s9N3": 0.0,
+        "s11N1": 0.0,
+        "s11N2": 0.0,
+        "s11N3": 0.0
+      }
+    },
+    {
+      "env_steps": 400000,
+      "held_success": 0.0,
+      "gate_success": 0.0,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 292.7,
+      "held_by_cell": {
+        "s7N1": 0.0,
+        "s7N2": 0.0,
+        "s7N3": 0.0,
+        "s9N1": 0.0,
+        "s9N2": 0.0,
+        "s9N3": 0.0,
+        "s11N1": 0.0,
+        "s11N2": 0.0,
+        "s11N3": 0.0
+      }
+    },
+    {
+      "env_steps": 450000,
+      "held_success": 0.0,
+      "gate_success": 0.0,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 330.3,
+      "held_by_cell": {
+        "s7N1": 0.0,
+        "s7N2": 0.0,
+        "s7N3": 0.0,
+        "s9N1": 0.0,
+        "s9N2": 0.0,
+        "s9N3": 0.0,
+        "s11N1": 0.0,
+        "s11N2": 0.0,
+        "s11N3": 0.0
+      }
+    },
+    {
+      "env_steps": 500000,
+      "held_success": 0.0208,
+      "gate_success": 0.0208,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 364.1,
+      "held_by_cell": {
+        "s7N1": 0.0,
+        "s7N2": 0.0,
+        "s7N3": 0.188,
+        "s9N1": 0.0,
+        "s9N2": 0.0,
+        "s9N3": 0.0,
+        "s11N1": 0.0,
+        "s11N2": 0.0,
+        "s11N3": 0.0
+      }
+    },
+    {
+      "env_steps": 550000,
+      "held_success": 0.0,
+      "gate_success": 0.0,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 401.0,
+      "held_by_cell": {
+        "s7N1": 0.0,
+        "s7N2": 0.0,
+        "s7N3": 0.0,
+        "s9N1": 0.0,
+        "s9N2": 0.0,
+        "s9N3": 0.0,
+        "s11N1": 0.0,
+        "s11N2": 0.0,
+        "s11N3": 0.0
+      }
+    },
+    {
+      "env_steps": 600000,
+      "held_success": 0.0,
+      "gate_success": 0.0,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 438.8,
+      "held_by_cell": {
+        "s7N1": 0.0,
+        "s7N2": 0.0,
+        "s7N3": 0.0,
+        "s9N1": 0.0,
+        "s9N2": 0.0,
+        "s9N3": 0.0,
+        "s11N1": 0.0,
+        "s11N2": 0.0,
+        "s11N3": 0.0
+      }
+    }
+  ],
+  "scoring_method": "none (flat)",
+  "args": {
+    "condition": "flat",
+    "seed": 6,
+    "results_dir": "results_v2_lc7911",
+    "sizes": [
+      7,
+      9,
+      11
+    ],
+    "tiers": [
+      1,
+      2,
+      3
+    ],
+    "n_seeds": 80,
+    "cap_per_cell": 10,
+    "n_bins": 3,
+    "eval_seed_start": 100000,
+    "eval_n_seeds": 200,
+    "eval_cap_per_cell": 4,
+    "eval_episodes": 4,
+    "gate": 0.55,
+    "gate_episodes": 4,
+    "gate_layouts": 18,
+    "bin_deadline_frac": 0.25,
+    "target": 0.3,
+    "total_steps": 600000,
+    "eval_every": 50000,
+    "no_restrict_actions": false,
+    "probe_k": 8,
+    "adapt_episodes": 3,
+    "oracle_steps": 600000,
+    "oracle_ref_seeds": 3,
+    "oracle_eval_episodes": 20,
+    "build_oracle_only": false,
+    "quick": false
+  },
+  "code": {
+    "curriculum_harness.py": "d423df0646c92627b9d6d027346640ad",
+    "difficulty_scoring.py": "f75c116a63850ec3f17ef9e5ed501c93",
+    "git_head": "02bcc8bea372c58a7f0595e77d9f4bc9372ace54"
+  },
+  "initial_bins": [
+    {
+      "s7N1": 5,
+      "s7N2": 4,
+      "s7N3": 4,
+      "s9N1": 3,
+      "s9N2": 4,
+      "s9N3": 5,
+      "s11N1": 1,
+      "s11N2": 3,
+      "s11N3": 1
+    },
+    {
+      "s7N1": 4,
+      "s7N2": 1,
+      "s7N3": 4,
+      "s9N1": 4,
+      "s9N2": 1,
+      "s9N3": 2,
+      "s11N1": 6,
+      "s11N2": 4,
+      "s11N3": 4
+    },
+    {
+      "s7N1": 1,
+      "s7N2": 5,
+      "s7N3": 2,
+      "s9N1": 3,
+      "s9N2": 5,
+      "s9N3": 3,
+      "s11N1": 3,
+      "s11N2": 3,
+      "s11N3": 5
+    }
+  ],
+  "score_tie_fraction": 0.0,
+  "unlocks": []
+}

@@ -1,0 +1,13 @@
+task_name,llm_difficulty_score,model
+cleanhouse,0.4442,mock_rule_based
+stairclimber,0.2711,mock_rule_based
+fourcorners,0.2357,mock_rule_based
+topoff,0.2357,mock_rule_based
+maze,0.2843,mock_rule_based
+harvester,0.1953,mock_rule_based
+doorkey,0.2234,mock_rule_based
+onestroke,0.1953,mock_rule_based
+seeder,0.1953,mock_rule_based
+snake,0.3453,mock_rule_based
+wallavoider,0.2050,mock_rule_based
+pathfollow,0.1953,mock_rule_based

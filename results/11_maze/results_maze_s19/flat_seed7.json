@@ -1,0 +1,406 @@
+{
+  "condition": "flat",
+  "seed": 7,
+  "sizes": [
+    19
+  ],
+  "tiers": [
+    1,
+    2,
+    3
+  ],
+  "total_steps": 1500000,
+  "n_bins": 3,
+  "target": 0.3,
+  "steps_to_target": 300000,
+  "final_held_success": 0.6111,
+  "wall_s": 2126.0,
+  "n_train": 90,
+  "n_eval": 36,
+  "curve": [
+    {
+      "env_steps": 50000,
+      "held_success": 0.0347,
+      "gate_success": 0.0347,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 91.7,
+      "held_by_cell": {
+        "s19N0": 0.035
+      }
+    },
+    {
+      "env_steps": 100000,
+      "held_success": 0.0903,
+      "gate_success": 0.0903,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 183.0,
+      "held_by_cell": {
+        "s19N0": 0.09
+      }
+    },
+    {
+      "env_steps": 150000,
+      "held_success": 0.0139,
+      "gate_success": 0.0139,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 279.8,
+      "held_by_cell": {
+        "s19N0": 0.014
+      }
+    },
+    {
+      "env_steps": 200000,
+      "held_success": 0.1181,
+      "gate_success": 0.1181,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 373.4,
+      "held_by_cell": {
+        "s19N0": 0.118
+      }
+    },
+    {
+      "env_steps": 250000,
+      "held_success": 0.1736,
+      "gate_success": 0.1736,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 464.6,
+      "held_by_cell": {
+        "s19N0": 0.174
+      }
+    },
+    {
+      "env_steps": 300000,
+      "held_success": 0.3472,
+      "gate_success": 0.3472,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 550.5,
+      "held_by_cell": {
+        "s19N0": 0.347
+      }
+    },
+    {
+      "env_steps": 350000,
+      "held_success": 0.4931,
+      "gate_success": 0.4931,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 626.4,
+      "held_by_cell": {
+        "s19N0": 0.493
+      }
+    },
+    {
+      "env_steps": 400000,
+      "held_success": 0.6389,
+      "gate_success": 0.6389,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 691.5,
+      "held_by_cell": {
+        "s19N0": 0.639
+      }
+    },
+    {
+      "env_steps": 450000,
+      "held_success": 0.6597,
+      "gate_success": 0.6597,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 754.9,
+      "held_by_cell": {
+        "s19N0": 0.66
+      }
+    },
+    {
+      "env_steps": 500000,
+      "held_success": 0.6597,
+      "gate_success": 0.6597,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 819.9,
+      "held_by_cell": {
+        "s19N0": 0.66
+      }
+    },
+    {
+      "env_steps": 550000,
+      "held_success": 0.5347,
+      "gate_success": 0.5347,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 887.4,
+      "held_by_cell": {
+        "s19N0": 0.535
+      }
+    },
+    {
+      "env_steps": 600000,
+      "held_success": 0.5139,
+      "gate_success": 0.5139,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 956.4,
+      "held_by_cell": {
+        "s19N0": 0.514
+      }
+    },
+    {
+      "env_steps": 650000,
+      "held_success": 0.5764,
+      "gate_success": 0.5764,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 1022.4,
+      "held_by_cell": {
+        "s19N0": 0.576
+      }
+    },
+    {
+      "env_steps": 700000,
+      "held_success": 0.6042,
+      "gate_success": 0.6042,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 1088.3,
+      "held_by_cell": {
+        "s19N0": 0.604
+      }
+    },
+    {
+      "env_steps": 750000,
+      "held_success": 0.5347,
+      "gate_success": 0.5347,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 1161.3,
+      "held_by_cell": {
+        "s19N0": 0.535
+      }
+    },
+    {
+      "env_steps": 800000,
+      "held_success": 0.4653,
+      "gate_success": 0.4653,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 1234.1,
+      "held_by_cell": {
+        "s19N0": 0.465
+      }
+    },
+    {
+      "env_steps": 850000,
+      "held_success": 0.6389,
+      "gate_success": 0.6389,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 1299.2,
+      "held_by_cell": {
+        "s19N0": 0.639
+      }
+    },
+    {
+      "env_steps": 900000,
+      "held_success": 0.6458,
+      "gate_success": 0.6458,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 1361.8,
+      "held_by_cell": {
+        "s19N0": 0.646
+      }
+    },
+    {
+      "env_steps": 950000,
+      "held_success": 0.6319,
+      "gate_success": 0.6319,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 1425.0,
+      "held_by_cell": {
+        "s19N0": 0.632
+      }
+    },
+    {
+      "env_steps": 1000000,
+      "held_success": 0.6181,
+      "gate_success": 0.6181,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 1486.9,
+      "held_by_cell": {
+        "s19N0": 0.618
+      }
+    },
+    {
+      "env_steps": 1050000,
+      "held_success": 0.6806,
+      "gate_success": 0.6806,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 1547.9,
+      "held_by_cell": {
+        "s19N0": 0.681
+      }
+    },
+    {
+      "env_steps": 1100000,
+      "held_success": 0.6736,
+      "gate_success": 0.6736,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 1607.8,
+      "held_by_cell": {
+        "s19N0": 0.674
+      }
+    },
+    {
+      "env_steps": 1150000,
+      "held_success": 0.5764,
+      "gate_success": 0.5764,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 1674.0,
+      "held_by_cell": {
+        "s19N0": 0.576
+      }
+    },
+    {
+      "env_steps": 1200000,
+      "held_success": 0.6458,
+      "gate_success": 0.6458,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 1735.2,
+      "held_by_cell": {
+        "s19N0": 0.646
+      }
+    },
+    {
+      "env_steps": 1250000,
+      "held_success": 0.5972,
+      "gate_success": 0.5972,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 1798.9,
+      "held_by_cell": {
+        "s19N0": 0.597
+      }
+    },
+    {
+      "env_steps": 1300000,
+      "held_success": 0.5833,
+      "gate_success": 0.5833,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 1861.4,
+      "held_by_cell": {
+        "s19N0": 0.583
+      }
+    },
+    {
+      "env_steps": 1350000,
+      "held_success": 0.5972,
+      "gate_success": 0.5972,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 1923.8,
+      "held_by_cell": {
+        "s19N0": 0.597
+      }
+    },
+    {
+      "env_steps": 1400000,
+      "held_success": 0.5833,
+      "gate_success": 0.5833,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 1992.9,
+      "held_by_cell": {
+        "s19N0": 0.583
+      }
+    },
+    {
+      "env_steps": 1450000,
+      "held_success": 0.6319,
+      "gate_success": 0.6319,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 2058.6,
+      "held_by_cell": {
+        "s19N0": 0.632
+      }
+    },
+    {
+      "env_steps": 1500000,
+      "held_success": 0.6111,
+      "gate_success": 0.6111,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 2126.0,
+      "held_by_cell": {
+        "s19N0": 0.611
+      }
+    }
+  ],
+  "scoring_method": "none (flat)",
+  "args": {
+    "condition": "flat",
+    "seed": 7,
+    "results_dir": "results_maze_s19",
+    "sizes": [
+      19
+    ],
+    "tiers": [
+      1,
+      2,
+      3
+    ],
+    "n_seeds": 90,
+    "cap_per_cell": 10,
+    "n_bins": 3,
+    "eval_seed_start": 100000,
+    "eval_n_seeds": 36,
+    "eval_cap_per_cell": 4,
+    "eval_episodes": 4,
+    "gate": 0.55,
+    "gate_episodes": 4,
+    "gate_layouts": 18,
+    "bin_deadline_frac": 0.25,
+    "target": 0.3,
+    "total_steps": 1500000,
+    "eval_every": 50000,
+    "no_restrict_actions": false,
+    "probe_k": 8,
+    "adapt_episodes": 3,
+    "oracle_steps": 600000,
+    "oracle_ref_seeds": 3,
+    "oracle_eval_episodes": 20,
+    "build_oracle_only": false,
+    "quick": false
+  },
+  "code": {
+    "curriculum_harness.py": "d423df0646c92627b9d6d027346640ad",
+    "difficulty_scoring.py": "f75c116a63850ec3f17ef9e5ed501c93",
+    "git_head": "02bcc8bea372c58a7f0595e77d9f4bc9372ace54"
+  },
+  "initial_bins": [
+    {
+      "s19N0": 30
+    },
+    {
+      "s19N0": 30
+    },
+    {
+      "s19N0": 30
+    }
+  ],
+  "score_tie_fraction": 0.0,
+  "unlocks": []
+}

@@ -1,0 +1,2 @@
+task,across_grid_std(mean_label),within_grid_std,signal_std,SNR,label_reliability,best_feature,best_single_|rho|,rf_cv_rho
+FourCorners,0.094,0.259,0.048,0.35,0.23,graph_start_eccentricity,0.189,0.05

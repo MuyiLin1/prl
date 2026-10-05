@@ -1,0 +1,39 @@
+domain,label,features,n_feats,mean,sd,metric
+LavaGap (60),partial-progress D,local,4,0.2629779853558839,0.03719445892146456,Spearman
+LavaGap (60),partial-progress D,local+reach,9,0.5679896159442199,0.04419746322299751,Spearman
+LavaGap (60),partial-progress D,local+reach+spec,14,0.563381167782046,0.040566638654678765,Spearman
+LavaGap (60),partial-progress D,spec only,5,0.3806445479352,0.03869890403601662,Spearman
+LavaCrossing 7911 (90),1 - PPO success,local,6,0.26768304799612197,0.055947265718700755,Spearman
+LavaCrossing 7911 (90),1 - PPO success,local+reach,11,0.33646273309898145,0.040950195281099736,Spearman
+LavaCrossing 7911 (90),1 - PPO success,local+reach+spec,16,0.39353082631947844,0.045570808989094824,Spearman
+LavaCrossing 7911 (90),1 - PPO success,spec only,5,0.2854250310164427,0.057503939584225366,Spearman
+LavaCrossing 91317 (90),1 - PPO success,local,6,0.26200395288469835,0.03696641552474398,Spearman
+LavaCrossing 91317 (90),1 - PPO success,local+reach,11,0.2776791265908053,0.04091118809455158,Spearman
+LavaCrossing 91317 (90),1 - PPO success,local+reach+spec,16,0.33930502213365465,0.04463590627139338,Spearman
+LavaCrossing 91317 (90),1 - PPO success,spec only,5,0.1698590182646758,0.03541988974372424,Spearman
+Karel WallAvoider (200),HC D (R=12),local,1,-0.10160244355331723,0.04796125476873441,Spearman
+Karel WallAvoider (200),HC D (R=12),local+reach,3,0.3326581447018833,0.023786508462939462,Spearman
+Karel WallAvoider (200),HC D (R=12),local+reach+spec,3,0.33265244084044865,0.023784060463852036,Spearman
+Karel TopOff (200),HC D (R=12),local,2,0.32356527427865306,0.026143876015801794,Spearman
+Karel TopOff (200),HC D (R=12),local+reach,2,0.32356527427865306,0.026143876015801794,Spearman
+Karel TopOff (200),HC D (R=12),local+reach+spec,2,0.32356527427865306,0.026143876015801794,Spearman
+Karel DoorKey (200),HC D (R=12),local,1,0.035747882849018905,0.06500132343844955,Spearman
+Karel DoorKey (200),HC D (R=12),local+reach,2,-0.11110802941540836,0.050733423127517045,Spearman
+Karel DoorKey (200),HC D (R=12),local+reach+spec,2,-0.1111088914777815,0.050746930961921205,Spearman
+Karel Maze (200),HC D (R=12),local,4,-0.032809816296664754,0.04549864736016284,Spearman
+Karel Maze (200),HC D (R=12),local+reach,7,-0.03347152130804476,0.046509236056692715,Spearman
+Karel Maze (200),HC D (R=12),local+reach+spec,11,-0.04121444813142829,0.04821747451942313,Spearman
+Karel Maze (200),HC D (R=12),spec only,4,0.006142292022377894,0.020888565827894313,Spearman
+Karel Snake (80),HC D (R=12),local,1,0.08967976681811485,0.11080800010755411,Spearman
+Karel Snake (80),HC D (R=12),local+reach,2,0.11870933664047474,0.0975147841999924,Spearman
+Karel Snake (80),HC D (R=12),local+reach+spec,2,0.11870933664047474,0.0975147841999924,Spearman
+Sokoban public (3000),log A* effort,local,10,0.5886200916739692,0.003414538176650568,Spearman
+Sokoban public (3000),log A* effort,local+reach,15,0.659422029676835,0.0034627269486136145,Spearman
+Sokoban public (3000),log A* effort,local+reach+spec,20,0.6743616463509068,0.0017709237531665781,Spearman
+Sokoban public (3000),log A* effort,spec only,5,0.5125573755013714,0.002654477588592963,Spearman
+Sokoban public (3000),log A* effort,full + domain-specific,26,0.7499736109321211,0.0021742192949124606,Spearman
+Sokoban public (3000),tier,local,10,0.7372722222222222,0.0028072305465643736,AUC
+Sokoban public (3000),tier,local+reach,15,0.7869197777777778,0.00018511560174179736,AUC
+Sokoban public (3000),tier,local+reach+spec,20,0.7988791851851852,0.0020912747787591762,AUC
+Sokoban public (3000),tier,spec only,5,0.6907913333333333,0.004735009280760569,AUC
+Sokoban public (3000),tier,full + domain-specific,26,0.8044777037037036,0.00045237215944913644,AUC

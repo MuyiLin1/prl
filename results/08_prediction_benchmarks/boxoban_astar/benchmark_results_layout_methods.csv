@@ -1,0 +1,13 @@
+label,predictor,metric,value,ci_lo,ci_hi
+log A* nodes expanded,"ours_geometry (RF, CV)",Spearman,0.6766689648661931,0.6560572052988036,0.6983275316242686
+log A* nodes expanded,"ours_full (RF, CV)",Spearman,0.7524420562557721,0.7353696055527711,0.7699656249232923
+log A* nodes expanded,"kartal2016 (published, unfitted)",Spearman,0.40982499020944047,0.3799404441808002,0.44144473720500227
+log A* nodes expanded,"kartal2016 components (RF, CV)",Spearman,0.4647686330529775,0.4353729543377913,0.494845644468136
+A* optimal solution length,"ours_geometry (RF, CV)",Spearman,0.6260583586175532,0.6032726828206154,0.6476486015262647
+A* optimal solution length,"ours_full (RF, CV)",Spearman,0.7072728967894538,0.688251513314816,0.7262703887577515
+A* optimal solution length,"kartal2016 (published, unfitted)",Spearman,0.47783215973947146,0.45016205479556837,0.5074568253553581
+A* optimal solution length,"kartal2016 components (RF, CV)",Spearman,0.41004763219683266,0.3801648265858923,0.44064301339782885
+Boxoban tier (medium = DRC agents failed),"ours_geometry (RF, CV)",AUC,0.7959944444444444,0.77994185734263,0.8113906970555695
+Boxoban tier (medium = DRC agents failed),"ours_full (RF, CV)",AUC,0.8025375555555556,0.7866890763553941,0.8179626917632971
+Boxoban tier (medium = DRC agents failed),"kartal2016 (published, unfitted)",AUC,0.6425519999999999,0.6225940622306355,0.6612674780704406
+Boxoban tier (medium = DRC agents failed),"kartal2016 components (RF, CV)",AUC,0.5825106666666666,0.5631149567766477,0.603783671427065

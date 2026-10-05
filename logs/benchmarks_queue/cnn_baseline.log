@@ -1,0 +1,14 @@
+log A* nodes expanded                         seed0: 0.769
+log A* nodes expanded                         seed1: 0.773
+log A* nodes expanded                         seed2: 0.777
+A* optimal solution length                    seed0: 0.781
+A* optimal solution length                    seed1: 0.782
+A* optimal solution length                    seed2: 0.759
+Boxoban tier (medium = DRC agents failed)     seed0: 0.822
+Boxoban tier (medium = DRC agents failed)     seed1: 0.822
+Boxoban tier (medium = DRC agents failed)     seed2: 0.823
+                                                    mean   std
+label                                     metric              
+A* optimal solution length                Spearman 0.774 0.013
+Boxoban tier (medium = DRC agents failed) AUC      0.822 0.000
+log A* nodes expanded                     Spearman 0.773 0.004

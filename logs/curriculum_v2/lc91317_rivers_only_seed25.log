@@ -1,0 +1,53 @@
+[rivers_only] train=90 layouts  held-out=36 layouts
+objc[58285]: Class SDLApplication is implemented in both /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/pygame/.dylibs/libSDL2-2.0.0.dylib (0x1051452c8) and /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/cv2/.dylibs/libSDL2-2.0.0.dylib (0x16dae4890). This may cause spurious casting failures and mysterious crashes. One of the duplicates must be removed or renamed.
+objc[58285]: Class SDLAppDelegate is implemented in both /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/pygame/.dylibs/libSDL2-2.0.0.dylib (0x105145318) and /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/cv2/.dylibs/libSDL2-2.0.0.dylib (0x16dae48e0). This may cause spurious casting failures and mysterious crashes. One of the duplicates must be removed or renamed.
+objc[58285]: Class SDLTranslatorResponder is implemented in both /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/pygame/.dylibs/libSDL2-2.0.0.dylib (0x105145390) and /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/cv2/.dylibs/libSDL2-2.0.0.dylib (0x16dae4958). This may cause spurious casting failures and mysterious crashes. One of the duplicates must be removed or renamed.
+objc[58285]: Class SDLMessageBoxPresenter is implemented in both /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/pygame/.dylibs/libSDL2-2.0.0.dylib (0x1051453b8) and /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/cv2/.dylibs/libSDL2-2.0.0.dylib (0x16dae4980). This may cause spurious casting failures and mysterious crashes. One of the duplicates must be removed or renamed.
+objc[58285]: Class SDL_cocoametalview is implemented in both /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/pygame/.dylibs/libSDL2-2.0.0.dylib (0x105145408) and /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/cv2/.dylibs/libSDL2-2.0.0.dylib (0x16dae49d0). This may cause spurious casting failures and mysterious crashes. One of the duplicates must be removed or renamed.
+objc[58285]: Class SDLOpenGLContext is implemented in both /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/pygame/.dylibs/libSDL2-2.0.0.dylib (0x105145458) and /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/cv2/.dylibs/libSDL2-2.0.0.dylib (0x16dae4a20). This may cause spurious casting failures and mysterious crashes. One of the duplicates must be removed or renamed.
+objc[58285]: Class SDL_ShapeData is implemented in both /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/pygame/.dylibs/libSDL2-2.0.0.dylib (0x1051454d0) and /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/cv2/.dylibs/libSDL2-2.0.0.dylib (0x16dae4a98). This may cause spurious casting failures and mysterious crashes. One of the duplicates must be removed or renamed.
+objc[58285]: Class SDL_CocoaClosure is implemented in both /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/pygame/.dylibs/libSDL2-2.0.0.dylib (0x105145520) and /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/cv2/.dylibs/libSDL2-2.0.0.dylib (0x16dae4ae8). This may cause spurious casting failures and mysterious crashes. One of the duplicates must be removed or renamed.
+objc[58285]: Class SDL_VideoData is implemented in both /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/pygame/.dylibs/libSDL2-2.0.0.dylib (0x105145570) and /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/cv2/.dylibs/libSDL2-2.0.0.dylib (0x16dae4b38). This may cause spurious casting failures and mysterious crashes. One of the duplicates must be removed or renamed.
+objc[58285]: Class SDL_WindowData is implemented in both /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/pygame/.dylibs/libSDL2-2.0.0.dylib (0x1051455c0) and /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/cv2/.dylibs/libSDL2-2.0.0.dylib (0x16dae4b88). This may cause spurious casting failures and mysterious crashes. One of the duplicates must be removed or renamed.
+objc[58285]: Class SDLWindow is implemented in both /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/pygame/.dylibs/libSDL2-2.0.0.dylib (0x1051455e8) and /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/cv2/.dylibs/libSDL2-2.0.0.dylib (0x16dae4bb0). This may cause spurious casting failures and mysterious crashes. One of the duplicates must be removed or renamed.
+objc[58285]: Class Cocoa_WindowListener is implemented in both /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/pygame/.dylibs/libSDL2-2.0.0.dylib (0x105145610) and /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/cv2/.dylibs/libSDL2-2.0.0.dylib (0x16dae4bd8). This may cause spurious casting failures and mysterious crashes. One of the duplicates must be removed or renamed.
+objc[58285]: Class SDLView is implemented in both /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/pygame/.dylibs/libSDL2-2.0.0.dylib (0x105145688) and /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/cv2/.dylibs/libSDL2-2.0.0.dylib (0x16dae4c50). This may cause spurious casting failures and mysterious crashes. One of the duplicates must be removed or renamed.
+objc[58285]: Class METAL_RenderData is implemented in both /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/pygame/.dylibs/libSDL2-2.0.0.dylib (0x105145700) and /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/cv2/.dylibs/libSDL2-2.0.0.dylib (0x16dae4cc8). This may cause spurious casting failures and mysterious crashes. One of the duplicates must be removed or renamed.
+objc[58285]: Class METAL_TextureData is implemented in both /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/pygame/.dylibs/libSDL2-2.0.0.dylib (0x105145750) and /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/cv2/.dylibs/libSDL2-2.0.0.dylib (0x16dae4d18). This may cause spurious casting failures and mysterious crashes. One of the duplicates must be removed or renamed.
+objc[58285]: Class SDL_RumbleMotor is implemented in both /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/pygame/.dylibs/libSDL2-2.0.0.dylib (0x105145778) and /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/cv2/.dylibs/libSDL2-2.0.0.dylib (0x16dae4d40). This may cause spurious casting failures and mysterious crashes. One of the duplicates must be removed or renamed.
+objc[58285]: Class SDL_RumbleContext is implemented in both /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/pygame/.dylibs/libSDL2-2.0.0.dylib (0x1051457c8) and /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/cv2/.dylibs/libSDL2-2.0.0.dylib (0x16dae4d90). This may cause spurious casting failures and mysterious crashes. One of the duplicates must be removed or renamed.
+[rivers_only] 1500000 steps, 30 checkpoints, curriculum
+
+  steps=  50000  held=0.00  gate=0.00  bins=1/3  active= 30  (36s)
+  steps= 100000  held=0.00  gate=0.00  bins=1/3  active= 30  (71s)
+  steps= 150000  held=0.00  gate=0.00  bins=1/3  active= 30  (105s)
+  steps= 200000  held=0.00  gate=0.00  bins=1/3  active= 30  (143s)
+  steps= 250000  held=0.00  gate=0.00  bins=1/3  active= 30  (192s)
+  steps= 300000  held=0.00  gate=0.00  bins=1/3  active= 30  (249s)
+  steps= 350000  held=0.00  gate=0.00  bins=1/3  active= 30  (302s)
+  steps= 400000  held=0.00  gate=0.00  bins=2/3  active= 60  [UNLOCK:deadline]  (355s)
+  steps= 450000  held=0.01  gate=0.01  bins=2/3  active= 60  (383s)
+  steps= 500000  held=0.03  gate=0.06  bins=2/3  active= 60  (409s)
+  steps= 550000  held=0.03  gate=0.06  bins=2/3  active= 60  (436s)
+  steps= 600000  held=0.03  gate=0.11  bins=2/3  active= 60  (463s)
+  steps= 650000  held=0.03  gate=0.00  bins=2/3  active= 60  (490s)
+  steps= 700000  held=0.01  gate=0.11  bins=2/3  active= 60  (537s)
+  steps= 750000  held=0.00  gate=0.04  bins=2/3  active= 60  (577s)
+  steps= 800000  held=0.03  gate=0.06  bins=3/3  active= 90  [UNLOCK:deadline]  (603s)
+  steps= 850000  held=0.01  gate=0.01  bins=3/3  active= 90  (638s)
+  steps= 900000  held=0.00  gate=0.00  bins=3/3  active= 90  (680s)
+  steps= 950000  held=0.01  gate=0.01  bins=3/3  active= 90  (707s)
+  steps=1000000  held=0.12  gate=0.12  bins=3/3  active= 90  (734s)
+  steps=1050000  held=0.04  gate=0.04  bins=3/3  active= 90  (769s)
+  steps=1100000  held=0.03  gate=0.03  bins=3/3  active= 90  (811s)
+  steps=1150000  held=0.12  gate=0.12  bins=3/3  active= 90  (839s)
+  steps=1200000  held=0.03  gate=0.03  bins=3/3  active= 90  (889s)
+  steps=1250000  held=0.08  gate=0.08  bins=3/3  active= 90  (933s)
+  steps=1300000  held=0.02  gate=0.02  bins=3/3  active= 90  (970s)
+  steps=1350000  held=0.03  gate=0.03  bins=3/3  active= 90  (997s)
+  steps=1400000  held=0.06  gate=0.06  bins=3/3  active= 90  (1037s)
+  steps=1450000  held=0.15  gate=0.15  bins=3/3  active= 90  (1068s)
+  steps=1500000  held=0.05  gate=0.05  bins=3/3  active= 90  (1113s)
+
+[rivers_only] DONE  final held=0.05  steps_to_0.3=NOT REACHED  wall=1113s  -> rivers_only_seed25.json
+[rivers_only] per-cell held: s9N1=0.00  s9N2=0.00  s9N3=0.00  s13N1=0.19  s13N2=0.00  s13N3=0.00  s17N1=0.00  s17N2=0.25  s17N3=0.00

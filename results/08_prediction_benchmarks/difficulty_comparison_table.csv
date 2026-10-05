@@ -1,0 +1,72 @@
+domain,label,method,metric,value,ceiling,role
+Sokoban (3000 public),log A* nodes expanded,"ours_full (RF, CV)",Spearman,0.7524420562557721,1.0,main
+Sokoban (3000 public),log A* nodes expanded,"kartal2016 (published, unfitted)",Spearman,0.4098249902094404,1.0,main
+Sokoban (3000 public),A* optimal solution length,"ours_full (RF, CV)",Spearman,0.7072728967894538,1.0,main
+Sokoban (3000 public),A* optimal solution length,"kartal2016 (published, unfitted)",Spearman,0.4778321597394714,1.0,main
+Sokoban (3000 public),Boxoban tier (medium = DRC agents failed),"ours_full (RF, CV)",AUC,0.8025375555555556,1.0,main
+Sokoban (3000 public),Boxoban tier (medium = DRC agents failed),"kartal2016 (published, unfitted)",AUC,0.6425519999999999,1.0,main
+Sokoban (3000 public),log A* nodes expanded,LLM Qwen7B zero-shot,Spearman,0.1843046986747609,1.0,main
+Sokoban (3000 public),Boxoban tier (medium = DRC agents failed),LLM Qwen7B zero-shot,AUC,0.5731766666666667,1.0,main
+Sokoban (3000 public),log A* nodes expanded,"ours + LLM (RF, CV)",Spearman,0.7542689951345667,1.0,secondary
+Sokoban (3000 public),A* optimal solution length,"ours + LLM (RF, CV)",Spearman,0.7086220755465938,1.0,secondary
+Sokoban (3000 public),Boxoban tier (medium = DRC agents failed),"ours + LLM (RF, CV)",AUC,0.8022568888888889,1.0,secondary
+"Sokoban (200, RL-style label)",budgeted-search D,"ours (RF, CV)",Spearman,0.32353014006311814,0.99,main
+"Sokoban (200, RL-style label)",budgeted-search D,Boxoban tier (computed by running agents; not a free knob),Spearman,0.5747310023352658,0.99,main
+"Sokoban (200, RL-style label)",budgeted-search D,LLM Qwen7B zero-shot,Spearman,0.009400875081196133,0.99,main
+"Sokoban (200, RL-style label)",budgeted-search D,"ours + LLM (RF, CV)",Spearman,0.29892793074649887,0.99,secondary
+MiniGrid LavaGap (60),partial-progress D,"ours 3-layer (RF, CV)",Spearman,0.5676302996958145,0.8888194417315589,main
+MiniGrid LavaGap (60),partial-progress D,"hand gap features (RF, CV)",Spearman,0.7692468064538438,0.8888194417315589,main
+MiniGrid LavaGap (60),partial-progress D,LLM Qwen7B zero-shot,Spearman,0.29214666180395443,0.8888194417315589,main
+MiniGrid LavaGap (60),partial-progress D,"ours 3-layer + LLM (RF, CV)",Spearman,0.8228877182578694,0.8888194417315589,secondary
+MiniGrid LavaCrossing 7911,"1 - success (held-out ref PPOs, rotated)",LLM Qwen7B zero-shot (0 rollouts),Spearman,0.1975836947855648,0.7549834435270749,main
+MiniGrid LavaCrossing 7911,"1 - success (held-out ref PPOs, rotated)",grader (0 rollouts),Spearman,0.3976834994939282,0.7549834435270749,main
+MiniGrid LavaCrossing 7911,"1 - success (held-out ref PPOs, rotated)","grader + LLM (RF, CV, 0 rollouts)",Spearman,0.3802287646387233,0.7549834435270749,secondary
+MiniGrid LavaCrossing 7911,"1 - success (held-out ref PPOs, rotated)",grader + LLM rank-avg (0 rollouts),Spearman,0.3923731267591335,0.7549834435270749,secondary
+MiniGrid LavaCrossing 7911,"1 - success (held-out ref PPOs, rotated)",knobs size+N (0 rollouts),Spearman,0.2391425240676658,0.7549834435270749,main
+MiniGrid LavaCrossing 7911,"1 - success (held-out ref PPOs, rotated)",trained-agent rollouts k=1,Spearman,0.4173837974084899,0.7549834435270749,main
+MiniGrid LavaCrossing 7911,"1 - success (held-out ref PPOs, rotated)",trained-agent rollouts k=2,Spearman,0.4382635343000228,0.7549834435270749,main
+MiniGrid LavaCrossing 7911,"1 - success (held-out ref PPOs, rotated)",trained-agent rollouts k=4,Spearman,0.4560175920748869,0.7549834435270749,main
+MiniGrid LavaCrossing 7911,"1 - success (held-out ref PPOs, rotated)",trained-agent rollouts k=8,Spearman,0.4685939019177499,0.7549834435270749,main
+MiniGrid LavaCrossing 7911,"1 - success (held-out ref PPOs, rotated)",trained-agent rollouts k=16,Spearman,0.485644396435713,0.7549834435270749,main
+MiniGrid LavaCrossing 91317,"1 - success (held-out ref PPOs, rotated)",LLM Qwen7B zero-shot (0 rollouts),Spearman,0.2724482795430169,0.7615773105863908,main
+MiniGrid LavaCrossing 91317,"1 - success (held-out ref PPOs, rotated)",grader (0 rollouts),Spearman,0.4611191838929211,0.7615773105863908,main
+MiniGrid LavaCrossing 91317,"1 - success (held-out ref PPOs, rotated)",grader + LLM rank-avg (0 rollouts),Spearman,0.4581223684795434,0.7615773105863908,secondary
+MiniGrid LavaCrossing 91317,"1 - success (held-out ref PPOs, rotated)",knobs size+N (0 rollouts),Spearman,0.3536485336565827,0.7615773105863908,main
+MiniGrid LavaCrossing 91317,"1 - success (held-out ref PPOs, rotated)",trained-agent rollouts k=1,Spearman,0.3588709392752302,0.7615773105863908,main
+MiniGrid LavaCrossing 91317,"1 - success (held-out ref PPOs, rotated)",trained-agent rollouts k=2,Spearman,0.3712070998220816,0.7615773105863908,main
+MiniGrid LavaCrossing 91317,"1 - success (held-out ref PPOs, rotated)",trained-agent rollouts k=4,Spearman,0.4039027538723325,0.7615773105863908,main
+MiniGrid LavaCrossing 91317,"1 - success (held-out ref PPOs, rotated)",trained-agent rollouts k=8,Spearman,0.4331070933809762,0.7615773105863908,main
+MiniGrid LavaCrossing 91317,"1 - success (held-out ref PPOs, rotated)",trained-agent rollouts k=16,Spearman,0.4388806131214567,0.7615773105863908,main
+Karel CleanHouse (200),HC D (R=12),"ours (RF, CV)",Spearman,-0.014852617860423953,,main
+Karel CleanHouse (200),HC D (R=12),LLM Qwen7B zero-shot,Spearman,0.2471055928192392,,main
+Karel CleanHouse (200),HC D (R=12),"ours + LLM (RF, CV)",Spearman,0.1609636860565837,,secondary
+Karel DoorKey (200),HC D (R=12),"ours (RF, CV)",Spearman,-0.1413112713375438,,main
+Karel DoorKey (200),HC D (R=12),LLM Qwen7B zero-shot,Spearman,0.4072656102150586,,main
+Karel DoorKey (200),HC D (R=12),"ours + LLM (RF, CV)",Spearman,0.315986102409752,,secondary
+Karel FourCorners (200),HC D (R=12),"ours (RF, CV)",Spearman,0.0313073973451342,,main
+Karel FourCorners (200),HC D (R=12),LLM Qwen7B zero-shot,Spearman,0.20159934901897242,,main
+Karel FourCorners (200),HC D (R=12),"ours + LLM (RF, CV)",Spearman,0.12716834677558259,,secondary
+Karel Maze (200),HC D (R=12),"ours (RF, CV)",Spearman,0.028573830269567346,,main
+Karel Maze (200),HC D (R=12),LLM Qwen7B zero-shot,Spearman,0.17215213218202002,,main
+Karel Maze (200),HC D (R=12),"ours + LLM (RF, CV)",Spearman,0.3180591725662866,,secondary
+Karel OneStroke (200),HC D (R=12),"ours (RF, CV)",Spearman,0.34594130051631833,,main
+Karel OneStroke (200),HC D (R=12),LLM Qwen7B zero-shot,Spearman,0.12007475239576933,,main
+Karel OneStroke (200),HC D (R=12),"ours + LLM (RF, CV)",Spearman,0.4649731213913869,,secondary
+Karel PathFollow (200),HC D (R=12),"ours (RF, CV)",Spearman,-0.031002215320794668,,main
+Karel PathFollow (200),HC D (R=12),LLM Qwen7B zero-shot,Spearman,0.27260570835542053,,main
+Karel PathFollow (200),HC D (R=12),"ours + LLM (RF, CV)",Spearman,0.23588161006108527,,secondary
+Karel StairClimber (200),HC D (R=12),"ours (RF, CV)",Spearman,0.08657833393788306,,main
+Karel StairClimber (200),HC D (R=12),LLM Qwen7B zero-shot,Spearman,0.15781105157007289,,main
+Karel StairClimber (200),HC D (R=12),"ours + LLM (RF, CV)",Spearman,0.24113081594336402,,secondary
+Karel WallAvoider (200),HC D (R=12),"ours (RF, CV)",Spearman,0.36474048380694263,,main
+Karel WallAvoider (200),HC D (R=12),LLM Qwen7B zero-shot,Spearman,-0.022117543675103282,,main
+Karel WallAvoider (200),HC D (R=12),"ours + LLM (RF, CV)",Spearman,0.5644037319907914,,secondary
+Karel TopOff (200),HC D (R=12),"ours (RF, CV)",Spearman,0.2794836921937957,,main
+Karel TopOff (200),HC D (R=12),LLM Qwen7B zero-shot,Spearman,0.10235052080429137,,main
+Karel TopOff (200),HC D (R=12),"ours + LLM (RF, CV)",Spearman,0.4136094175004341,,secondary
+Karel Seeder (80),HC D (R=12),"ours (RF, CV)",Spearman,0.15236655217370074,,main
+Karel Seeder (80),HC D (R=12),LLM Qwen7B zero-shot,Spearman,0.08377304923469284,,main
+Karel Seeder (80),HC D (R=12),"ours + LLM (RF, CV)",Spearman,0.07403239814824938,,secondary
+Karel Snake (80),HC D (R=12),"ours (RF, CV)",Spearman,0.0709165006060975,,main
+Karel Snake (80),HC D (R=12),LLM Qwen7B zero-shot,Spearman,0.18519257206448406,,main
+Karel Snake (80),HC D (R=12),"ours + LLM (RF, CV)",Spearman,0.10479791683218806,,secondary

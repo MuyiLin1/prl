@@ -1,0 +1,232 @@
+/Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/pygame/pkgdata.py:25: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import resource_stream, resource_exists
+objc[56686]: Class SDLApplication is implemented in both /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/pygame/.dylibs/libSDL2-2.0.0.dylib (0x13a2292c8) and /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/cv2/.dylibs/libSDL2-2.0.0.dylib (0x16811c890). This may cause spurious casting failures and mysterious crashes. One of the duplicates must be removed or renamed.
+objc[56686]: Class SDLAppDelegate is implemented in both /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/pygame/.dylibs/libSDL2-2.0.0.dylib (0x13a229318) and /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/cv2/.dylibs/libSDL2-2.0.0.dylib (0x16811c8e0). This may cause spurious casting failures and mysterious crashes. One of the duplicates must be removed or renamed.
+objc[56686]: Class SDLTranslatorResponder is implemented in both /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/pygame/.dylibs/libSDL2-2.0.0.dylib (0x13a229390) and /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/cv2/.dylibs/libSDL2-2.0.0.dylib (0x16811c958). This may cause spurious casting failures and mysterious crashes. One of the duplicates must be removed or renamed.
+objc[56686]: Class SDLMessageBoxPresenter is implemented in both /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/pygame/.dylibs/libSDL2-2.0.0.dylib (0x13a2293b8) and /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/cv2/.dylibs/libSDL2-2.0.0.dylib (0x16811c980). This may cause spurious casting failures and mysterious crashes. One of the duplicates must be removed or renamed.
+objc[56686]: Class SDL_cocoametalview is implemented in both /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/pygame/.dylibs/libSDL2-2.0.0.dylib (0x13a229408) and /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/cv2/.dylibs/libSDL2-2.0.0.dylib (0x16811c9d0). This may cause spurious casting failures and mysterious crashes. One of the duplicates must be removed or renamed.
+objc[56686]: Class SDLOpenGLContext is implemented in both /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/pygame/.dylibs/libSDL2-2.0.0.dylib (0x13a229458) and /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/cv2/.dylibs/libSDL2-2.0.0.dylib (0x16811ca20). This may cause spurious casting failures and mysterious crashes. One of the duplicates must be removed or renamed.
+objc[56686]: Class SDL_ShapeData is implemented in both /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/pygame/.dylibs/libSDL2-2.0.0.dylib (0x13a2294d0) and /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/cv2/.dylibs/libSDL2-2.0.0.dylib (0x16811ca98). This may cause spurious casting failures and mysterious crashes. One of the duplicates must be removed or renamed.
+objc[56686]: Class SDL_CocoaClosure is implemented in both /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/pygame/.dylibs/libSDL2-2.0.0.dylib (0x13a229520) and /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/cv2/.dylibs/libSDL2-2.0.0.dylib (0x16811cae8). This may cause spurious casting failures and mysterious crashes. One of the duplicates must be removed or renamed.
+objc[56686]: Class SDL_VideoData is implemented in both /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/pygame/.dylibs/libSDL2-2.0.0.dylib (0x13a229570) and /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/cv2/.dylibs/libSDL2-2.0.0.dylib (0x16811cb38). This may cause spurious casting failures and mysterious crashes. One of the duplicates must be removed or renamed.
+objc[56686]: Class SDL_WindowData is implemented in both /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/pygame/.dylibs/libSDL2-2.0.0.dylib (0x13a2295c0) and /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/cv2/.dylibs/libSDL2-2.0.0.dylib (0x16811cb88). This may cause spurious casting failures and mysterious crashes. One of the duplicates must be removed or renamed.
+objc[56686]: Class SDLWindow is implemented in both /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/pygame/.dylibs/libSDL2-2.0.0.dylib (0x13a2295e8) and /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/cv2/.dylibs/libSDL2-2.0.0.dylib (0x16811cbb0). This may cause spurious casting failures and mysterious crashes. One of the duplicates must be removed or renamed.
+objc[56686]: Class Cocoa_WindowListener is implemented in both /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/pygame/.dylibs/libSDL2-2.0.0.dylib (0x13a229610) and /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/cv2/.dylibs/libSDL2-2.0.0.dylib (0x16811cbd8). This may cause spurious casting failures and mysterious crashes. One of the duplicates must be removed or renamed.
+objc[56686]: Class SDLView is implemented in both /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/pygame/.dylibs/libSDL2-2.0.0.dylib (0x13a229688) and /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/cv2/.dylibs/libSDL2-2.0.0.dylib (0x16811cc50). This may cause spurious casting failures and mysterious crashes. One of the duplicates must be removed or renamed.
+objc[56686]: Class METAL_RenderData is implemented in both /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/pygame/.dylibs/libSDL2-2.0.0.dylib (0x13a229700) and /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/cv2/.dylibs/libSDL2-2.0.0.dylib (0x16811ccc8). This may cause spurious casting failures and mysterious crashes. One of the duplicates must be removed or renamed.
+objc[56686]: Class METAL_TextureData is implemented in both /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/pygame/.dylibs/libSDL2-2.0.0.dylib (0x13a229750) and /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/cv2/.dylibs/libSDL2-2.0.0.dylib (0x16811cd18). This may cause spurious casting failures and mysterious crashes. One of the duplicates must be removed or renamed.
+objc[56686]: Class SDL_RumbleMotor is implemented in both /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/pygame/.dylibs/libSDL2-2.0.0.dylib (0x13a229778) and /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/cv2/.dylibs/libSDL2-2.0.0.dylib (0x16811cd40). This may cause spurious casting failures and mysterious crashes. One of the duplicates must be removed or renamed.
+objc[56686]: Class SDL_RumbleContext is implemented in both /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/pygame/.dylibs/libSDL2-2.0.0.dylib (0x13a2297c8) and /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/cv2/.dylibs/libSDL2-2.0.0.dylib (0x16811cd90). This may cause spurious casting failures and mysterious crashes. One of the duplicates must be removed or renamed.
+
+======================================================================
+Task: WallAvoider  (200 grids x 12 HC seeds)
+======================================================================
+  grid   0: mean_diff=0.167 std=0.295
+  grid   1: mean_diff=0.750 std=0.000
+  grid   2: mean_diff=0.979 std=0.069
+  grid   3: mean_diff=0.667 std=0.212
+  grid   4: mean_diff=0.958 std=0.093
+  grid   5: mean_diff=0.938 std=0.108
+  grid   6: mean_diff=0.917 std=0.156
+  grid   7: mean_diff=0.396 std=0.238
+  grid   8: mean_diff=0.854 std=0.160
+  grid   9: mean_diff=0.771 std=0.069
+  grid  10: mean_diff=0.750 std=0.000
+  grid  11: mean_diff=0.771 std=0.259
+  grid  12: mean_diff=0.708 std=0.093
+  grid  13: mean_diff=0.729 std=0.069
+  grid  14: mean_diff=0.729 std=0.069
+  grid  15: mean_diff=0.729 std=0.069
+  grid  16: mean_diff=0.375 std=0.451
+  grid  17: mean_diff=0.750 std=0.000
+  grid  18: mean_diff=0.771 std=0.069
+  grid  19: mean_diff=0.979 std=0.069
+  grid  20: mean_diff=0.729 std=0.069
+  grid  21: mean_diff=0.708 std=0.224
+  grid  22: mean_diff=0.979 std=0.069
+  grid  23: mean_diff=0.938 std=0.149
+  grid  24: mean_diff=0.646 std=0.330
+  grid  25: mean_diff=1.000 std=0.000
+  grid  26: mean_diff=0.708 std=0.224
+  grid  27: mean_diff=0.771 std=0.069
+  grid  28: mean_diff=0.750 std=0.000
+  grid  29: mean_diff=0.521 std=0.314
+  grid  30: mean_diff=0.792 std=0.093
+  grid  31: mean_diff=0.979 std=0.069
+  grid  32: mean_diff=0.917 std=0.118
+  grid  33: mean_diff=0.688 std=0.231
+  grid  34: mean_diff=0.729 std=0.259
+  grid  35: mean_diff=0.729 std=0.069
+  grid  36: mean_diff=0.750 std=0.433
+  grid  37: mean_diff=0.646 std=0.238
+  grid  38: mean_diff=0.708 std=0.093
+  grid  39: mean_diff=0.750 std=0.000
+  grid  40: mean_diff=0.854 std=0.190
+  grid  41: mean_diff=0.854 std=0.238
+  grid  42: mean_diff=0.792 std=0.093
+  grid  43: mean_diff=0.604 std=0.216
+  grid  44: mean_diff=0.688 std=0.207
+  grid  45: mean_diff=0.667 std=0.118
+  grid  46: mean_diff=0.958 std=0.093
+  grid  47: mean_diff=0.958 std=0.093
+  grid  48: mean_diff=0.792 std=0.093
+  grid  49: mean_diff=0.750 std=0.000
+  grid  50: mean_diff=0.750 std=0.000
+  grid  51: mean_diff=0.771 std=0.069
+  grid  52: mean_diff=0.604 std=0.160
+  grid  53: mean_diff=0.667 std=0.257
+  grid  54: mean_diff=0.729 std=0.069
+  grid  55: mean_diff=0.729 std=0.069
+  grid  56: mean_diff=0.750 std=0.000
+  grid  57: mean_diff=0.688 std=0.410
+  grid  58: mean_diff=0.667 std=0.212
+  grid  59: mean_diff=0.854 std=0.160
+  grid  60: mean_diff=0.729 std=0.069
+  grid  61: mean_diff=0.750 std=0.000
+  grid  62: mean_diff=0.750 std=0.000
+  grid  63: mean_diff=0.167 std=0.295
+  grid  64: mean_diff=0.625 std=0.161
+  grid  65: mean_diff=0.917 std=0.212
+  grid  66: mean_diff=0.562 std=0.325
+  grid  67: mean_diff=0.771 std=0.297
+  grid  68: mean_diff=0.708 std=0.093
+  grid  69: mean_diff=0.750 std=0.000
+  grid  70: mean_diff=0.667 std=0.212
+  grid  71: mean_diff=0.771 std=0.069
+  grid  72: mean_diff=0.750 std=0.000
+  grid  73: mean_diff=0.979 std=0.069
+  grid  74: mean_diff=0.729 std=0.069
+  grid  75: mean_diff=0.771 std=0.069
+  grid  76: mean_diff=0.667 std=0.156
+  grid  77: mean_diff=0.750 std=0.000
+  grid  78: mean_diff=0.729 std=0.069
+  grid  79: mean_diff=0.875 std=0.217
+  grid  80: mean_diff=0.417 std=0.236
+  grid  81: mean_diff=0.854 std=0.160
+  grid  82: mean_diff=0.750 std=0.000
+  grid  83: mean_diff=0.958 std=0.093
+  grid  84: mean_diff=0.750 std=0.000
+  grid  85: mean_diff=0.688 std=0.149
+  grid  86: mean_diff=0.729 std=0.160
+  grid  87: mean_diff=0.896 std=0.279
+  grid  88: mean_diff=0.604 std=0.216
+  grid  89: mean_diff=0.750 std=0.000
+  grid  90: mean_diff=0.583 std=0.186
+  grid  91: mean_diff=0.583 std=0.212
+  grid  92: mean_diff=0.708 std=0.138
+  grid  93: mean_diff=0.750 std=0.000
+  grid  94: mean_diff=0.729 std=0.374
+  grid  95: mean_diff=0.979 std=0.069
+  grid  96: mean_diff=0.625 std=0.239
+  grid  97: mean_diff=0.625 std=0.217
+  grid  98: mean_diff=0.708 std=0.093
+  grid  99: mean_diff=0.771 std=0.069
+  grid 100: mean_diff=0.667 std=0.212
+  grid 101: mean_diff=0.521 std=0.314
+  grid 102: mean_diff=0.771 std=0.069
+  grid 103: mean_diff=1.000 std=0.000
+  grid 104: mean_diff=0.750 std=0.102
+  grid 105: mean_diff=0.854 std=0.279
+  grid 106: mean_diff=0.750 std=0.000
+  grid 107: mean_diff=0.562 std=0.272
+  grid 108: mean_diff=0.896 std=0.279
+  grid 109: mean_diff=0.750 std=0.000
+  grid 110: mean_diff=0.771 std=0.069
+  grid 111: mean_diff=0.771 std=0.069
+  grid 112: mean_diff=0.958 std=0.093
+  grid 113: mean_diff=0.750 std=0.000
+  grid 114: mean_diff=0.771 std=0.069
+  grid 115: mean_diff=0.771 std=0.069
+  grid 116: mean_diff=0.750 std=0.000
+  grid 117: mean_diff=0.771 std=0.069
+  grid 118: mean_diff=0.771 std=0.069
+  grid 119: mean_diff=0.729 std=0.069
+  grid 120: mean_diff=0.750 std=0.000
+  grid 121: mean_diff=0.750 std=0.102
+  grid 122: mean_diff=0.625 std=0.239
+  grid 123: mean_diff=0.729 std=0.123
+  grid 124: mean_diff=0.646 std=0.190
+  grid 125: mean_diff=0.896 std=0.160
+  grid 126: mean_diff=0.771 std=0.069
+  grid 127: mean_diff=0.750 std=0.000
+  grid 128: mean_diff=0.979 std=0.069
+  grid 129: mean_diff=0.958 std=0.093
+  grid 130: mean_diff=0.646 std=0.238
+  grid 131: mean_diff=0.792 std=0.093
+  grid 132: mean_diff=0.979 std=0.069
+  grid 133: mean_diff=0.750 std=0.000
+  grid 134: mean_diff=0.458 std=0.351
+  grid 135: mean_diff=0.812 std=0.180
+  grid 136: mean_diff=0.604 std=0.279
+  grid 137: mean_diff=0.542 std=0.320
+  grid 138: mean_diff=0.729 std=0.069
+  grid 139: mean_diff=1.000 std=0.000
+  grid 140: mean_diff=0.500 std=0.354
+  grid 141: mean_diff=0.896 std=0.216
+  grid 142: mean_diff=0.771 std=0.069
+  grid 143: mean_diff=0.729 std=0.279
+  grid 144: mean_diff=0.771 std=0.069
+  grid 145: mean_diff=0.771 std=0.069
+  grid 146: mean_diff=0.688 std=0.108
+  grid 147: mean_diff=0.771 std=0.330
+  grid 148: mean_diff=0.750 std=0.000
+  grid 149: mean_diff=0.979 std=0.069
+  grid 150: mean_diff=0.938 std=0.149
+  grid 151: mean_diff=0.667 std=0.212
+  grid 152: mean_diff=0.625 std=0.239
+  grid 153: mean_diff=0.729 std=0.123
+  grid 154: mean_diff=0.750 std=0.000
+  grid 155: mean_diff=0.854 std=0.279
+  grid 156: mean_diff=0.375 std=0.346
+  grid 157: mean_diff=0.917 std=0.212
+  grid 158: mean_diff=0.604 std=0.160
+  grid 159: mean_diff=0.500 std=0.204
+  grid 160: mean_diff=0.729 std=0.259
+  grid 161: mean_diff=0.604 std=0.216
+  grid 162: mean_diff=0.938 std=0.108
+  grid 163: mean_diff=0.542 std=0.286
+  grid 164: mean_diff=0.750 std=0.000
+  grid 165: mean_diff=0.854 std=0.160
+  grid 166: mean_diff=0.729 std=0.360
+  grid 167: mean_diff=0.688 std=0.108
+  grid 168: mean_diff=0.771 std=0.069
+  grid 169: mean_diff=0.667 std=0.212
+  grid 170: mean_diff=0.625 std=0.298
+  grid 171: mean_diff=0.812 std=0.291
+  grid 172: mean_diff=0.521 std=0.314
+  grid 173: mean_diff=0.729 std=0.216
+  grid 174: mean_diff=0.750 std=0.102
+  grid 175: mean_diff=0.688 std=0.207
+  grid 176: mean_diff=0.792 std=0.200
+  grid 177: mean_diff=0.896 std=0.160
+  grid 178: mean_diff=0.750 std=0.000
+  grid 179: mean_diff=0.625 std=0.239
+  grid 180: mean_diff=0.979 std=0.069
+  grid 181: mean_diff=0.750 std=0.000
+  grid 182: mean_diff=0.938 std=0.108
+  grid 183: mean_diff=0.812 std=0.108
+  grid 184: mean_diff=0.896 std=0.123
+  grid 185: mean_diff=0.750 std=0.000
+  grid 186: mean_diff=0.667 std=0.212
+  grid 187: mean_diff=0.729 std=0.069
+  grid 188: mean_diff=0.750 std=0.000
+  grid 189: mean_diff=0.750 std=0.000
+  grid 190: mean_diff=0.667 std=0.212
+  grid 191: mean_diff=0.854 std=0.279
+  grid 192: mean_diff=0.604 std=0.297
+  grid 193: mean_diff=0.750 std=0.270
+  grid 194: mean_diff=0.771 std=0.069
+  grid 195: mean_diff=0.646 std=0.216
+  grid 196: mean_diff=0.771 std=0.123
+  grid 197: mean_diff=0.292 std=0.351
+  grid 198: mean_diff=0.667 std=0.212
+  grid 199: mean_diff=0.750 std=0.000
+
+==========================================================================================
+AVERAGED-LABEL PILOT SUMMARY
+==========================================================================================
+       task  across_grid_std(mean_label)  within_grid_std  signal_std  SNR  label_reliability             best_feature  best_single_|rho|  rf_cv_rho
+WallAvoider                        0.141            0.142       0.131 6.41              0.817 graph_start_eccentricity              0.282       0.42
+
+Interpretation per task:
+  WallAvoider reliability= 0.817 SNR= 6.41 -> stable label with real across-grid signal; rf_cv=  0.42 -> geometry partially predicts

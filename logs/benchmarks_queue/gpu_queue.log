@@ -1,0 +1,28 @@
+[karel_all.jsonl] 2040 to score (0 already done)
+  0/2040  1.66s/item
+  100/2040  1.04s/item
+  200/2040  0.99s/item
+  300/2040  0.91s/item
+  400/2040  0.86s/item
+  500/2040  0.84s/item
+  600/2040  0.82s/item
+  700/2040  0.76s/item
+  800/2040  0.71s/item
+  900/2040  0.67s/item
+  1000/2040  0.64s/item
+  1100/2040  0.61s/item
+  1200/2040  0.59s/item
+  1300/2040  0.57s/item
+  1400/2040  0.55s/item
+  1500/2040  0.53s/item
+  1600/2040  0.52s/item
+  1700/2040  0.51s/item
+  1800/2040  0.50s/item
+  1900/2040  0.49s/item
+  2000/2040  0.48s/item
+[karel_all.jsonl] done -> karel_all_llm_qwen7b.csv
+[sokoban_astar_benchmark.jsonl] 225 to score (2775 already done)
+  0/225  0.30s/item
+  100/225  0.30s/item
+  200/225  0.29s/item
+[sokoban_astar_benchmark.jsonl] done -> sokoban_astar_benchmark_llm_qwen7b.csv

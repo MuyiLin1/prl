@@ -1,0 +1,9 @@
+task,across_grid_std(mean_label),within_grid_std,signal_std,SNR,label_reliability,best_feature,best_single_|rho|,rf_cv_rho
+CleanHouse,0.141,0.409,0.076,0.41,0.237,,0.0,
+DoorKey,0.126,0.218,0.108,2.69,0.709,graph_start_eccentricity,0.114,0.028
+FourCorners,0.094,0.259,0.048,0.35,0.23,graph_start_eccentricity,0.189,0.05
+Maze,0.061,0.086,0.046,1.32,0.702,spectral_lambda_3,0.166,-0.007
+OneStroke,0.037,0.077,0.023,0.65,0.442,graph_start_eccentricity,0.016,0.422
+PathFollow,0.09,0.151,0.077,2.67,0.431,,0.0,
+StairClimber,0.138,0.378,0.08,0.51,0.254,graph_start_eccentricity,0.002,-0.02
+WallAvoider,0.141,0.142,0.131,6.41,0.817,graph_start_eccentricity,0.282,0.42

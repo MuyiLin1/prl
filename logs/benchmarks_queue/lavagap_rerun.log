@@ -1,0 +1,105 @@
+/Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/pygame/pkgdata.py:25: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import resource_stream, resource_exists
+objc[17375]: Class SDLApplication is implemented in both /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/pygame/.dylibs/libSDL2-2.0.0.dylib (0x33c8e92c8) and /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/cv2/.dylibs/libSDL2-2.0.0.dylib (0x3551bc890). This may cause spurious casting failures and mysterious crashes. One of the duplicates must be removed or renamed.
+objc[17375]: Class SDLAppDelegate is implemented in both /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/pygame/.dylibs/libSDL2-2.0.0.dylib (0x33c8e9318) and /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/cv2/.dylibs/libSDL2-2.0.0.dylib (0x3551bc8e0). This may cause spurious casting failures and mysterious crashes. One of the duplicates must be removed or renamed.
+objc[17375]: Class SDLTranslatorResponder is implemented in both /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/pygame/.dylibs/libSDL2-2.0.0.dylib (0x33c8e9390) and /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/cv2/.dylibs/libSDL2-2.0.0.dylib (0x3551bc958). This may cause spurious casting failures and mysterious crashes. One of the duplicates must be removed or renamed.
+objc[17375]: Class SDLMessageBoxPresenter is implemented in both /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/pygame/.dylibs/libSDL2-2.0.0.dylib (0x33c8e93b8) and /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/cv2/.dylibs/libSDL2-2.0.0.dylib (0x3551bc980). This may cause spurious casting failures and mysterious crashes. One of the duplicates must be removed or renamed.
+objc[17375]: Class SDL_cocoametalview is implemented in both /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/pygame/.dylibs/libSDL2-2.0.0.dylib (0x33c8e9408) and /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/cv2/.dylibs/libSDL2-2.0.0.dylib (0x3551bc9d0). This may cause spurious casting failures and mysterious crashes. One of the duplicates must be removed or renamed.
+objc[17375]: Class SDLOpenGLContext is implemented in both /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/pygame/.dylibs/libSDL2-2.0.0.dylib (0x33c8e9458) and /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/cv2/.dylibs/libSDL2-2.0.0.dylib (0x3551bca20). This may cause spurious casting failures and mysterious crashes. One of the duplicates must be removed or renamed.
+objc[17375]: Class SDL_ShapeData is implemented in both /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/pygame/.dylibs/libSDL2-2.0.0.dylib (0x33c8e94d0) and /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/cv2/.dylibs/libSDL2-2.0.0.dylib (0x3551bca98). This may cause spurious casting failures and mysterious crashes. One of the duplicates must be removed or renamed.
+objc[17375]: Class SDL_CocoaClosure is implemented in both /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/pygame/.dylibs/libSDL2-2.0.0.dylib (0x33c8e9520) and /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/cv2/.dylibs/libSDL2-2.0.0.dylib (0x3551bcae8). This may cause spurious casting failures and mysterious crashes. One of the duplicates must be removed or renamed.
+objc[17375]: Class SDL_VideoData is implemented in both /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/pygame/.dylibs/libSDL2-2.0.0.dylib (0x33c8e9570) and /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/cv2/.dylibs/libSDL2-2.0.0.dylib (0x3551bcb38). This may cause spurious casting failures and mysterious crashes. One of the duplicates must be removed or renamed.
+objc[17375]: Class SDL_WindowData is implemented in both /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/pygame/.dylibs/libSDL2-2.0.0.dylib (0x33c8e95c0) and /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/cv2/.dylibs/libSDL2-2.0.0.dylib (0x3551bcb88). This may cause spurious casting failures and mysterious crashes. One of the duplicates must be removed or renamed.
+objc[17375]: Class SDLWindow is implemented in both /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/pygame/.dylibs/libSDL2-2.0.0.dylib (0x33c8e95e8) and /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/cv2/.dylibs/libSDL2-2.0.0.dylib (0x3551bcbb0). This may cause spurious casting failures and mysterious crashes. One of the duplicates must be removed or renamed.
+objc[17375]: Class Cocoa_WindowListener is implemented in both /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/pygame/.dylibs/libSDL2-2.0.0.dylib (0x33c8e9610) and /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/cv2/.dylibs/libSDL2-2.0.0.dylib (0x3551bcbd8). This may cause spurious casting failures and mysterious crashes. One of the duplicates must be removed or renamed.
+objc[17375]: Class SDLView is implemented in both /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/pygame/.dylibs/libSDL2-2.0.0.dylib (0x33c8e9688) and /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/cv2/.dylibs/libSDL2-2.0.0.dylib (0x3551bcc50). This may cause spurious casting failures and mysterious crashes. One of the duplicates must be removed or renamed.
+objc[17375]: Class METAL_RenderData is implemented in both /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/pygame/.dylibs/libSDL2-2.0.0.dylib (0x33c8e9700) and /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/cv2/.dylibs/libSDL2-2.0.0.dylib (0x3551bccc8). This may cause spurious casting failures and mysterious crashes. One of the duplicates must be removed or renamed.
+objc[17375]: Class METAL_TextureData is implemented in both /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/pygame/.dylibs/libSDL2-2.0.0.dylib (0x33c8e9750) and /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/cv2/.dylibs/libSDL2-2.0.0.dylib (0x3551bcd18). This may cause spurious casting failures and mysterious crashes. One of the duplicates must be removed or renamed.
+objc[17375]: Class SDL_RumbleMotor is implemented in both /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/pygame/.dylibs/libSDL2-2.0.0.dylib (0x33c8e9778) and /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/cv2/.dylibs/libSDL2-2.0.0.dylib (0x3551bcd40). This may cause spurious casting failures and mysterious crashes. One of the duplicates must be removed or renamed.
+objc[17375]: Class SDL_RumbleContext is implemented in both /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/pygame/.dylibs/libSDL2-2.0.0.dylib (0x33c8e97c8) and /Users/linmuyi/miniconda3/envs/llm_gs/lib/python3.9/site-packages/cv2/.dylibs/libSDL2-2.0.0.dylib (0x3551bcd90). This may cause spurious casting failures and mysterious crashes. One of the duplicates must be removed or renamed.
+Direction C A+B collector: shaped LavaGap size=9, 60 grids x 12 reps
+
+  grid   0: mean_shaped=0.688 success=0.17 mean_evals=341
+  grid   1: mean_shaped=0.493 success=0.00 mean_evals=375
+  grid   2: mean_shaped=0.507 success=0.17 mean_evals=317
+  grid   3: mean_shaped=0.750 success=0.50 mean_evals=181
+  grid   4: mean_shaped=0.799 success=0.50 mean_evals=294
+  grid   5: mean_shaped=0.729 success=0.00 mean_evals=385
+  grid   6: mean_shaped=0.597 success=0.25 mean_evals=376
+  grid   7: mean_shaped=0.778 success=0.25 mean_evals=376
+  grid   8: mean_shaped=0.479 success=0.08 mean_evals=319
+  grid   9: mean_shaped=0.694 success=0.33 mean_evals=259
+  grid  10: mean_shaped=0.944 success=0.83 mean_evals=179
+  grid  11: mean_shaped=0.792 success=0.58 mean_evals=184
+  grid  12: mean_shaped=0.611 success=0.33 mean_evals=292
+  grid  13: mean_shaped=0.951 success=0.83 mean_evals=198
+  grid  14: mean_shaped=0.472 success=0.08 mean_evals=342
+  grid  15: mean_shaped=0.743 success=0.17 mean_evals=358
+  grid  16: mean_shaped=0.493 success=0.00 mean_evals=396
+  grid  17: mean_shaped=0.778 success=0.08 mean_evals=426
+  grid  18: mean_shaped=0.528 success=0.08 mean_evals=328
+  grid  19: mean_shaped=0.493 success=0.17 mean_evals=325
+  grid  20: mean_shaped=0.618 success=0.33 mean_evals=270
+  grid  21: mean_shaped=0.535 success=0.00 mean_evals=370
+  grid  22: mean_shaped=0.569 success=0.08 mean_evals=346
+  grid  23: mean_shaped=0.444 success=0.00 mean_evals=355
+  grid  24: mean_shaped=0.521 success=0.17 mean_evals=394
+  grid  25: mean_shaped=0.500 success=0.33 mean_evals=288
+  grid  26: mean_shaped=0.646 success=0.08 mean_evals=381
+  grid  27: mean_shaped=0.472 success=0.08 mean_evals=373
+  grid  28: mean_shaped=0.722 success=0.00 mean_evals=382
+  grid  29: mean_shaped=0.667 success=0.33 mean_evals=202
+  grid  30: mean_shaped=0.611 success=0.42 mean_evals=512
+  grid  31: mean_shaped=0.826 success=0.58 mean_evals=269
+  grid  32: mean_shaped=0.417 success=0.00 mean_evals=330
+  grid  33: mean_shaped=0.632 success=0.00 mean_evals=432
+  grid  34: mean_shaped=0.882 success=0.75 mean_evals=153
+  grid  35: mean_shaped=0.486 success=0.25 mean_evals=319
+  grid  36: mean_shaped=0.361 success=0.08 mean_evals=325
+  grid  37: mean_shaped=0.382 success=0.00 mean_evals=379
+  grid  38: mean_shaped=0.576 success=0.17 mean_evals=378
+  grid  39: mean_shaped=0.694 success=0.25 mean_evals=322
+  grid  40: mean_shaped=0.618 success=0.00 mean_evals=371
+  grid  41: mean_shaped=0.764 success=0.33 mean_evals=265
+  grid  42: mean_shaped=0.451 success=0.00 mean_evals=312
+  grid  43: mean_shaped=0.674 success=0.17 mean_evals=377
+  grid  44: mean_shaped=0.792 success=0.58 mean_evals=167
+  grid  45: mean_shaped=0.667 success=0.00 mean_evals=394
+  grid  46: mean_shaped=0.715 success=0.50 mean_evals=261
+  grid  47: mean_shaped=0.507 success=0.00 mean_evals=358
+  grid  48: mean_shaped=0.590 success=0.42 mean_evals=278
+  grid  49: mean_shaped=0.403 success=0.17 mean_evals=351
+  grid  50: mean_shaped=0.764 success=0.08 mean_evals=402
+  grid  51: mean_shaped=0.660 success=0.42 mean_evals=293
+  grid  52: mean_shaped=0.736 success=0.25 mean_evals=274
+  grid  53: mean_shaped=0.736 success=0.42 mean_evals=195
+  grid  54: mean_shaped=0.424 success=0.17 mean_evals=361
+  grid  55: mean_shaped=0.722 success=0.08 mean_evals=369
+  grid  56: mean_shaped=0.507 success=0.00 mean_evals=399
+  grid  57: mean_shaped=0.368 success=0.00 mean_evals=355
+  grid  58: mean_shaped=0.403 success=0.08 mean_evals=350
+  grid  59: mean_shaped=0.701 success=0.17 mean_evals=344
+
+==============================================================================
+DIRECTION C — Options A & B: geometry vs difficulty instruments (shaped LavaGap)
+==============================================================================
+grids=60 reps=12 size=9
+
+[A  partial-progress (1-shaped)]
+   difficulty std=0.146  label_reliability=0.794
+   best single: gap_x rho=-0.471
+   RF 5-fold CV rho=0.763  -> GEOMETRY PREDICTS
+   per-feature: gap_x=-0.47, gap_y=-0.27, gap_col=-0.47, gap_row_offset=-0.27
+
+[B1 success-rate (1-solved)]
+   difficulty std=0.218  label_reliability=0.740
+   best single: gap_y rho=+0.173
+   RF 5-fold CV rho=0.726  -> GEOMETRY PREDICTS
+   per-feature: gap_x=-0.10, gap_y=+0.17, gap_col=-0.10, gap_row_offset=+0.17
+
+[B2 search-cost (evals)]
+   difficulty std=0.203  label_reliability=0.660
+   best single: gap_y rho=+0.189
+   RF 5-fold CV rho=0.688  -> GEOMETRY PREDICTS
+   per-feature: gap_x=-0.09, gap_y=+0.19, gap_col=-0.09, gap_row_offset=+0.19
+

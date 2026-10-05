@@ -1,0 +1,23 @@
+--- a/prog_policies/search_space/__init__.py	2026-09-01 06:22:47.696634009 +0000
++++ prog_policies/search_space/__init__.py	2026-09-01 06:22:47.697623361 +0000
+@@ -1,9 +1,19 @@
+ from __future__ import annotations
+ 
+ from .base_space import BaseSearchSpace
+-from .latent_space import LatentSpace
+ from .programmatic_space import ProgrammaticSpace, MinigridProgrammaticSpace
+ 
++def __getattr__(name):
++    # Lazily import LatentSpace only if actually requested, so the heavy
++    # torch/h5py/gym latent-space dependency chain is not triggered for
++    # experiments that only use the programmatic space.
++    if name == "LatentSpace":
++        from .latent_space import LatentSpace
++        return LatentSpace
++    raise AttributeError(f"module {__name__!r} has no attribute {name!r}")
++
+ def get_search_space_cls(search_space_cls_name: str) -> type[BaseSearchSpace]:
++    if search_space_cls_name == "LatentSpace":
++        return __getattr__("LatentSpace")
+     search_space_cls = globals().get(search_space_cls_name)
+     return search_space_cls

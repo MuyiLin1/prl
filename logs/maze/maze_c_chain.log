@@ -1,0 +1,5 @@
+pilot start Sun Oct  4 21:08:10 PDT 2026
+p_max 0.25: flat [0.06, 0.04, 0.0, 0.0] wall_count [0.0, 0.01] -> no
+p_max 0.1: flat [0.0, 0.01, 0.0, 0.0] wall_count [0.0, 0.0] -> no
+pilot done Sun Oct  4 22:40:49 PDT 2026; chosen p_max = ''
+NO CURRICULUM REGIME FOUND - main run not launched (Addendum C rule)

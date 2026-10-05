@@ -1,0 +1,85 @@
+n,rep,label,method,value
+60,0,log A* nodes expanded,ours (RF),0.6856828599110544
+60,0,log A* nodes expanded,CNN raw grid,0.6128127880049798
+60,0,Boxoban tier (AUC),ours (RF),0.7383829535318142
+60,0,Boxoban tier (AUC),CNN raw grid,0.5182760731042924
+60,1,log A* nodes expanded,ours (RF),0.6855122137383604
+60,1,log A* nodes expanded,CNN raw grid,0.624197851688226
+60,1,Boxoban tier (AUC),ours (RF),0.7673870695482781
+60,1,Boxoban tier (AUC),CNN raw grid,0.7288389153556614
+60,2,log A* nodes expanded,ours (RF),0.7040296064779618
+60,2,log A* nodes expanded,CNN raw grid,0.6231248166023144
+60,2,Boxoban tier (AUC),ours (RF),0.7464169856679428
+60,2,Boxoban tier (AUC),CNN raw grid,0.5655102620410482
+60,3,log A* nodes expanded,ours (RF),0.6155953129824567
+60,3,log A* nodes expanded,CNN raw grid,0.5964688356264617
+60,3,Boxoban tier (AUC),ours (RF),0.757437029748119
+60,3,Boxoban tier (AUC),CNN raw grid,0.7250269001076005
+60,4,log A* nodes expanded,ours (RF),0.6875044797545337
+60,4,log A* nodes expanded,CNN raw grid,0.5792147921653696
+60,4,Boxoban tier (AUC),ours (RF),0.7607170428681714
+60,4,Boxoban tier (AUC),CNN raw grid,0.7455229820919282
+200,0,log A* nodes expanded,ours (RF),0.7031235095609917
+200,0,log A* nodes expanded,CNN raw grid,0.6505432723497916
+200,0,Boxoban tier (AUC),ours (RF),0.7565110260441041
+200,0,Boxoban tier (AUC),CNN raw grid,0.7453189812759251
+200,1,log A* nodes expanded,ours (RF),0.7193935100262322
+200,1,log A* nodes expanded,CNN raw grid,0.6699582959977955
+200,1,Boxoban tier (AUC),ours (RF),0.7697370789483159
+200,1,Boxoban tier (AUC),CNN raw grid,0.6883667534670138
+200,2,log A* nodes expanded,ours (RF),0.7251352218368445
+200,2,log A* nodes expanded,CNN raw grid,0.633394498995233
+200,2,Boxoban tier (AUC),ours (RF),0.7546210184840739
+200,2,Boxoban tier (AUC),CNN raw grid,0.7592910371641486
+200,3,log A* nodes expanded,ours (RF),0.7223615030298411
+200,3,log A* nodes expanded,CNN raw grid,0.6625034504534919
+200,3,Boxoban tier (AUC),ours (RF),0.7743250973003892
+200,3,Boxoban tier (AUC),CNN raw grid,0.6848347393389574
+200,4,log A* nodes expanded,ours (RF),0.6937563540814303
+200,4,log A* nodes expanded,CNN raw grid,0.6576381295297872
+200,4,Boxoban tier (AUC),ours (RF),0.7137668550674203
+200,4,Boxoban tier (AUC),CNN raw grid,0.7255429021716087
+500,0,log A* nodes expanded,ours (RF),0.7317128124933663
+500,0,log A* nodes expanded,CNN raw grid,0.6881791564373063
+500,0,Boxoban tier (AUC),ours (RF),0.7847431389725559
+500,0,Boxoban tier (AUC),CNN raw grid,0.766507066028264
+500,1,log A* nodes expanded,ours (RF),0.7273119160396592
+500,1,log A* nodes expanded,CNN raw grid,0.7093155518273385
+500,1,Boxoban tier (AUC),ours (RF),0.7743990975963905
+500,1,Boxoban tier (AUC),CNN raw grid,0.7499309997239989
+500,2,log A* nodes expanded,ours (RF),0.7269347016579181
+500,2,log A* nodes expanded,CNN raw grid,0.7077087922012977
+500,2,Boxoban tier (AUC),ours (RF),0.7811131244524978
+500,2,Boxoban tier (AUC),CNN raw grid,0.7657550630202521
+500,3,log A* nodes expanded,ours (RF),0.73152914030749
+500,3,log A* nodes expanded,CNN raw grid,0.6939012563097752
+500,3,Boxoban tier (AUC),ours (RF),0.7883871535486142
+500,3,Boxoban tier (AUC),CNN raw grid,0.766939067756271
+500,4,log A* nodes expanded,ours (RF),0.7264173991344081
+500,4,log A* nodes expanded,CNN raw grid,0.669675683711792
+500,4,Boxoban tier (AUC),ours (RF),0.7753831015324062
+500,4,Boxoban tier (AUC),CNN raw grid,0.7806791227164909
+1000,0,log A* nodes expanded,ours (RF),0.7444697494033864
+1000,0,log A* nodes expanded,CNN raw grid,0.7297177504743635
+1000,0,Boxoban tier (AUC),ours (RF),0.7843391373565494
+1000,0,Boxoban tier (AUC),CNN raw grid,0.7750311001244004
+1000,1,log A* nodes expanded,ours (RF),0.7442515831826022
+1000,1,log A* nodes expanded,CNN raw grid,0.7623697415181786
+1000,1,Boxoban tier (AUC),ours (RF),0.7919071676286704
+1000,1,Boxoban tier (AUC),CNN raw grid,0.7900351601406406
+1000,2,log A* nodes expanded,ours (RF),0.7456775926257238
+1000,2,log A* nodes expanded,CNN raw grid,0.7318902446729277
+1000,2,Boxoban tier (AUC),ours (RF),0.7754931019724078
+1000,2,Boxoban tier (AUC),CNN raw grid,0.7886591546366185
+1000,3,log A* nodes expanded,ours (RF),0.7450667800075814
+1000,3,log A* nodes expanded,CNN raw grid,0.7192315998623792
+1000,3,Boxoban tier (AUC),ours (RF),0.7883891535566142
+1000,3,Boxoban tier (AUC),CNN raw grid,0.7856991427965712
+1000,4,log A* nodes expanded,ours (RF),0.7442982092297878
+1000,4,log A* nodes expanded,CNN raw grid,0.74395742088491
+1000,4,Boxoban tier (AUC),ours (RF),0.7802671210684842
+1000,4,Boxoban tier (AUC),CNN raw grid,0.7801991207964831
+2000,0,log A* nodes expanded,ours (RF),0.7529372039724505
+2000,0,log A* nodes expanded,CNN raw grid,0.7687499859749859
+2000,0,Boxoban tier (AUC),ours (RF),0.7924431697726791
+2000,0,Boxoban tier (AUC),CNN raw grid,0.8009192036768147

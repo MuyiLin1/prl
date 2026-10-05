@@ -1,0 +1,23 @@
+predictor,pearson_r,pearson_p,spearman_rho,spearman_p,n_tasks
+heuristic_inverse_fiedler vs difficulty,-0.354,0.258981,-0.739,0.006038,12
+heuristic_inverse_fiedler_norm vs difficulty,-0.354,0.258981,-0.739,0.006038,12
+heuristic_inverse_fiedler vs log_mean_programs,-0.5543,0.06148,-0.5192,0.083658,12
+heuristic_inverse_fiedler_norm vs log_mean_programs,-0.5543,0.06148,-0.5192,0.083658,12
+llm_zero_shot vs log_mean_programs,-0.5206,0.082704,-0.4493,0.14285,12
+heuristic_subgoal_density vs log_mean_programs,0.466,0.126767,0.4437,0.148525,12
+heuristic_subgoal_density vs difficulty,-0.0249,0.93873,0.436,0.156505,12
+heuristic_diameter_norm vs log_mean_programs,-0.4447,0.147453,-0.393,0.206256,12
+heuristic_graph_complexity vs log_mean_programs,-0.4447,0.147453,-0.393,0.206256,12
+heuristic_wall_fraction vs difficulty,0.416,0.178651,0.3412,0.277732,12
+llm_zero_shot vs difficulty,-0.098,0.761885,-0.3026,0.339072,12
+rtd_novelty vs log_mean_programs,-0.3251,0.30255,-0.2867,0.366251,12
+heuristic_graph_complexity vs difficulty,-0.2209,0.490247,-0.2797,0.378603,12
+heuristic_diameter_norm vs difficulty,-0.2209,0.490247,-0.2797,0.378603,12
+heuristic_composite vs difficulty,0.0436,0.892855,0.2443,0.444107,12
+rtd_ridge_prediction vs log_mean_programs,0.0667,0.836883,0.1786,0.578567,12
+rtd_ridge_prediction vs difficulty,0.0808,0.802927,0.157,0.62598,12
+heuristic_composite vs log_mean_programs,-0.109,0.735865,0.1549,0.630661,12
+heuristic_dead_end_ratio vs difficulty,0.2002,0.532742,0.0708,0.827037,12
+rtd_novelty vs difficulty,0.1353,0.675023,0.056,0.862799,12
+heuristic_dead_end_ratio vs log_mean_programs,-0.1432,0.656989,0.0468,0.885193,12
+heuristic_wall_fraction vs log_mean_programs,0.2066,0.519344,-0.0218,0.946399,12

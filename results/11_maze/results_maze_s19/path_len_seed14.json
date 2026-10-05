@@ -1,0 +1,419 @@
+{
+  "condition": "path_len",
+  "seed": 14,
+  "sizes": [
+    19
+  ],
+  "tiers": [
+    1,
+    2,
+    3
+  ],
+  "total_steps": 1500000,
+  "n_bins": 3,
+  "target": 0.3,
+  "steps_to_target": 100000,
+  "final_held_success": 0.2431,
+  "wall_s": 3563.4,
+  "n_train": 90,
+  "n_eval": 36,
+  "curve": [
+    {
+      "env_steps": 50000,
+      "held_success": 0.2917,
+      "gate_success": 0.375,
+      "frontier": 0,
+      "n_active": 30,
+      "wall_s": 117.2,
+      "held_by_cell": {
+        "s19N0": 0.292
+      }
+    },
+    {
+      "env_steps": 100000,
+      "held_success": 0.3958,
+      "gate_success": 0.5556,
+      "frontier": 1,
+      "n_active": 60,
+      "wall_s": 220.5,
+      "held_by_cell": {
+        "s19N0": 0.396
+      }
+    },
+    {
+      "env_steps": 150000,
+      "held_success": 0.4653,
+      "gate_success": 0.8333,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 321.6,
+      "held_by_cell": {
+        "s19N0": 0.465
+      }
+    },
+    {
+      "env_steps": 200000,
+      "held_success": 0.6042,
+      "gate_success": 0.6042,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 395.2,
+      "held_by_cell": {
+        "s19N0": 0.604
+      }
+    },
+    {
+      "env_steps": 250000,
+      "held_success": 0.6042,
+      "gate_success": 0.6042,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 465.0,
+      "held_by_cell": {
+        "s19N0": 0.604
+      }
+    },
+    {
+      "env_steps": 300000,
+      "held_success": 0.5486,
+      "gate_success": 0.5486,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 536.2,
+      "held_by_cell": {
+        "s19N0": 0.549
+      }
+    },
+    {
+      "env_steps": 350000,
+      "held_success": 0.625,
+      "gate_success": 0.625,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 609.0,
+      "held_by_cell": {
+        "s19N0": 0.625
+      }
+    },
+    {
+      "env_steps": 400000,
+      "held_success": 0.5347,
+      "gate_success": 0.5347,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 678.1,
+      "held_by_cell": {
+        "s19N0": 0.535
+      }
+    },
+    {
+      "env_steps": 450000,
+      "held_success": 0.2569,
+      "gate_success": 0.2569,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 767.2,
+      "held_by_cell": {
+        "s19N0": 0.257
+      }
+    },
+    {
+      "env_steps": 500000,
+      "held_success": 0.5764,
+      "gate_success": 0.5764,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 838.0,
+      "held_by_cell": {
+        "s19N0": 0.576
+      }
+    },
+    {
+      "env_steps": 550000,
+      "held_success": 0.3819,
+      "gate_success": 0.3819,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 923.4,
+      "held_by_cell": {
+        "s19N0": 0.382
+      }
+    },
+    {
+      "env_steps": 600000,
+      "held_success": 0.5694,
+      "gate_success": 0.5694,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 1001.0,
+      "held_by_cell": {
+        "s19N0": 0.569
+      }
+    },
+    {
+      "env_steps": 650000,
+      "held_success": 0.6944,
+      "gate_success": 0.6944,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 1069.1,
+      "held_by_cell": {
+        "s19N0": 0.694
+      }
+    },
+    {
+      "env_steps": 700000,
+      "held_success": 0.7083,
+      "gate_success": 0.7083,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 1133.8,
+      "held_by_cell": {
+        "s19N0": 0.708
+      }
+    },
+    {
+      "env_steps": 750000,
+      "held_success": 0.5625,
+      "gate_success": 0.5625,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 1204.1,
+      "held_by_cell": {
+        "s19N0": 0.562
+      }
+    },
+    {
+      "env_steps": 800000,
+      "held_success": 0.5625,
+      "gate_success": 0.5625,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 1281.6,
+      "held_by_cell": {
+        "s19N0": 0.562
+      }
+    },
+    {
+      "env_steps": 850000,
+      "held_success": 0.4653,
+      "gate_success": 0.4653,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 1371.6,
+      "held_by_cell": {
+        "s19N0": 0.465
+      }
+    },
+    {
+      "env_steps": 900000,
+      "held_success": 0.5625,
+      "gate_success": 0.5625,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 1494.3,
+      "held_by_cell": {
+        "s19N0": 0.562
+      }
+    },
+    {
+      "env_steps": 950000,
+      "held_success": 0.1528,
+      "gate_success": 0.1528,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 1656.7,
+      "held_by_cell": {
+        "s19N0": 0.153
+      }
+    },
+    {
+      "env_steps": 1000000,
+      "held_success": 0.3056,
+      "gate_success": 0.3056,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 1818.7,
+      "held_by_cell": {
+        "s19N0": 0.306
+      }
+    },
+    {
+      "env_steps": 1050000,
+      "held_success": 0.2292,
+      "gate_success": 0.2292,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 1985.6,
+      "held_by_cell": {
+        "s19N0": 0.229
+      }
+    },
+    {
+      "env_steps": 1100000,
+      "held_success": 0.0833,
+      "gate_success": 0.0833,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 2153.1,
+      "held_by_cell": {
+        "s19N0": 0.083
+      }
+    },
+    {
+      "env_steps": 1150000,
+      "held_success": 0.1458,
+      "gate_success": 0.1458,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 2323.9,
+      "held_by_cell": {
+        "s19N0": 0.146
+      }
+    },
+    {
+      "env_steps": 1200000,
+      "held_success": 0.4167,
+      "gate_success": 0.4167,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 2465.5,
+      "held_by_cell": {
+        "s19N0": 0.417
+      }
+    },
+    {
+      "env_steps": 1250000,
+      "held_success": 0.0417,
+      "gate_success": 0.0417,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 2636.3,
+      "held_by_cell": {
+        "s19N0": 0.042
+      }
+    },
+    {
+      "env_steps": 1300000,
+      "held_success": 0.1458,
+      "gate_success": 0.1458,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 2802.7,
+      "held_by_cell": {
+        "s19N0": 0.146
+      }
+    },
+    {
+      "env_steps": 1350000,
+      "held_success": 0.0486,
+      "gate_success": 0.0486,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 2979.3,
+      "held_by_cell": {
+        "s19N0": 0.049
+      }
+    },
+    {
+      "env_steps": 1400000,
+      "held_success": 0.0833,
+      "gate_success": 0.0833,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 3163.4,
+      "held_by_cell": {
+        "s19N0": 0.083
+      }
+    },
+    {
+      "env_steps": 1450000,
+      "held_success": 0.0069,
+      "gate_success": 0.0069,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 3342.8,
+      "held_by_cell": {
+        "s19N0": 0.007
+      }
+    },
+    {
+      "env_steps": 1500000,
+      "held_success": 0.2431,
+      "gate_success": 0.2431,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 3563.4,
+      "held_by_cell": {
+        "s19N0": 0.243
+      }
+    }
+  ],
+  "scoring_method": "BFS start-goal distance (+ tiebreak)",
+  "args": {
+    "condition": "path_len",
+    "seed": 14,
+    "results_dir": "results_maze_s19",
+    "sizes": [
+      19
+    ],
+    "tiers": [
+      1,
+      2,
+      3
+    ],
+    "n_seeds": 90,
+    "cap_per_cell": 10,
+    "n_bins": 3,
+    "eval_seed_start": 100000,
+    "eval_n_seeds": 36,
+    "eval_cap_per_cell": 4,
+    "eval_episodes": 4,
+    "gate": 0.55,
+    "gate_episodes": 4,
+    "gate_layouts": 18,
+    "bin_deadline_frac": 0.25,
+    "target": 0.3,
+    "total_steps": 1500000,
+    "eval_every": 50000,
+    "no_restrict_actions": false,
+    "probe_k": 8,
+    "adapt_episodes": 3,
+    "oracle_steps": 600000,
+    "oracle_ref_seeds": 3,
+    "oracle_eval_episodes": 20,
+    "build_oracle_only": false,
+    "quick": false
+  },
+  "code": {
+    "curriculum_harness.py": "d423df0646c92627b9d6d027346640ad",
+    "difficulty_scoring.py": "f75c116a63850ec3f17ef9e5ed501c93",
+    "git_head": "02bcc8bea372c58a7f0595e77d9f4bc9372ace54"
+  },
+  "initial_bins": [
+    {
+      "s19N0": 30
+    },
+    {
+      "s19N0": 30
+    },
+    {
+      "s19N0": 30
+    }
+  ],
+  "score_tie_fraction": 0.044444444444444446,
+  "unlocks": [
+    {
+      "env_steps": 100000,
+      "to_frontier": 1,
+      "kind": "gate",
+      "gate_success": 0.5556
+    },
+    {
+      "env_steps": 150000,
+      "to_frontier": 2,
+      "kind": "gate",
+      "gate_success": 0.8333
+    }
+  ]
+}

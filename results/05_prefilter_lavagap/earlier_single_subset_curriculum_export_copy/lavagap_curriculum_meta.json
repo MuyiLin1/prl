@@ -1,0 +1,48 @@
+{
+  "args": {
+    "pool_size": 24,
+    "k": 8,
+    "heldout": 12,
+    "size": 9,
+    "probe_seeds": 1,
+    "n_iter": 30,
+    "k_neighbors": 16,
+    "train_seeds": 1,
+    "random_draws": 1,
+    "curated_draws": 1,
+    "pool_subsample": 0.85,
+    "band_lo": 0.15,
+    "band_hi": 0.85,
+    "max_calls": 1000,
+    "seed": 0,
+    "out": "lavagap_curriculum",
+    "shard": 0,
+    "num_shards": 1,
+    "merge": false,
+    "quick": true
+  },
+  "curated_seeds": [
+    [
+      4,
+      2,
+      23,
+      1,
+      0,
+      8,
+      21,
+      13
+    ]
+  ],
+  "random_seeds": [
+    [
+      14,
+      1,
+      23,
+      9,
+      6,
+      5,
+      0,
+      11
+    ]
+  ]
+}

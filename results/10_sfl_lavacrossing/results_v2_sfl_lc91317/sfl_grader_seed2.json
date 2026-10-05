@@ -1,0 +1,463 @@
+{
+  "condition": "sfl_grader",
+  "seed": 2,
+  "final_held_success": 0.3056,
+  "training_steps": 1500000,
+  "scoring_steps": 201408,
+  "wall_s": 2815.7,
+  "curve": [
+    {
+      "env_steps": 50000,
+      "held_success": 0.0,
+      "scoring_steps_cum": 5618,
+      "wall_s": 72.6
+    },
+    {
+      "env_steps": 100000,
+      "held_success": 0.0,
+      "scoring_steps_cum": 5618,
+      "wall_s": 143.7
+    },
+    {
+      "env_steps": 150000,
+      "held_success": 0.0,
+      "scoring_steps_cum": 5618,
+      "wall_s": 220.8
+    },
+    {
+      "env_steps": 200000,
+      "held_success": 0.0,
+      "scoring_steps_cum": 5618,
+      "wall_s": 340.9
+    },
+    {
+      "env_steps": 250000,
+      "held_success": 0.0,
+      "scoring_steps_cum": 5618,
+      "wall_s": 441.0
+    },
+    {
+      "env_steps": 300000,
+      "held_success": 0.0,
+      "scoring_steps_cum": 46748,
+      "wall_s": 516.9
+    },
+    {
+      "env_steps": 350000,
+      "held_success": 0.0,
+      "scoring_steps_cum": 46748,
+      "wall_s": 657.3
+    },
+    {
+      "env_steps": 400000,
+      "held_success": 0.0,
+      "scoring_steps_cum": 46748,
+      "wall_s": 806.8
+    },
+    {
+      "env_steps": 450000,
+      "held_success": 0.0,
+      "scoring_steps_cum": 46748,
+      "wall_s": 916.5
+    },
+    {
+      "env_steps": 500000,
+      "held_success": 0.0208,
+      "scoring_steps_cum": 46748,
+      "wall_s": 1055.7
+    },
+    {
+      "env_steps": 550000,
+      "held_success": 0.0139,
+      "scoring_steps_cum": 87205,
+      "wall_s": 1209.6
+    },
+    {
+      "env_steps": 600000,
+      "held_success": 0.0,
+      "scoring_steps_cum": 87205,
+      "wall_s": 1312.1
+    },
+    {
+      "env_steps": 650000,
+      "held_success": 0.0,
+      "scoring_steps_cum": 87205,
+      "wall_s": 1408.0
+    },
+    {
+      "env_steps": 700000,
+      "held_success": 0.0,
+      "scoring_steps_cum": 87205,
+      "wall_s": 1519.3
+    },
+    {
+      "env_steps": 750000,
+      "held_success": 0.0,
+      "scoring_steps_cum": 87205,
+      "wall_s": 1613.2
+    },
+    {
+      "env_steps": 800000,
+      "held_success": 0.0,
+      "scoring_steps_cum": 126635,
+      "wall_s": 1724.5
+    },
+    {
+      "env_steps": 850000,
+      "held_success": 0.0,
+      "scoring_steps_cum": 126635,
+      "wall_s": 1799.2
+    },
+    {
+      "env_steps": 900000,
+      "held_success": 0.0,
+      "scoring_steps_cum": 126635,
+      "wall_s": 1872.0
+    },
+    {
+      "env_steps": 950000,
+      "held_success": 0.0,
+      "scoring_steps_cum": 126635,
+      "wall_s": 1954.6
+    },
+    {
+      "env_steps": 1000000,
+      "held_success": 0.0069,
+      "scoring_steps_cum": 126635,
+      "wall_s": 2036.5
+    },
+    {
+      "env_steps": 1050000,
+      "held_success": 0.0,
+      "scoring_steps_cum": 181866,
+      "wall_s": 2148.0
+    },
+    {
+      "env_steps": 1100000,
+      "held_success": 0.0,
+      "scoring_steps_cum": 181866,
+      "wall_s": 2225.4
+    },
+    {
+      "env_steps": 1150000,
+      "held_success": 0.0,
+      "scoring_steps_cum": 181866,
+      "wall_s": 2303.1
+    },
+    {
+      "env_steps": 1200000,
+      "held_success": 0.0,
+      "scoring_steps_cum": 181866,
+      "wall_s": 2377.4
+    },
+    {
+      "env_steps": 1250000,
+      "held_success": 0.1111,
+      "scoring_steps_cum": 181866,
+      "wall_s": 2437.2
+    },
+    {
+      "env_steps": 1300000,
+      "held_success": 0.1736,
+      "scoring_steps_cum": 201408,
+      "wall_s": 2515.2
+    },
+    {
+      "env_steps": 1350000,
+      "held_success": 0.0278,
+      "scoring_steps_cum": 201408,
+      "wall_s": 2600.2
+    },
+    {
+      "env_steps": 1400000,
+      "held_success": 0.0347,
+      "scoring_steps_cum": 201408,
+      "wall_s": 2682.4
+    },
+    {
+      "env_steps": 1450000,
+      "held_success": 0.4722,
+      "scoring_steps_cum": 201408,
+      "wall_s": 2744.3
+    },
+    {
+      "env_steps": 1500000,
+      "held_success": 0.3056,
+      "scoring_steps_cum": 201408,
+      "wall_s": 2815.7
+    }
+  ],
+  "refreshes": [
+    {
+      "env_steps": 0,
+      "scoring_steps": 5618,
+      "scoring_wall_s": 7.0,
+      "rolled": 20,
+      "mean_p": 0.0125,
+      "degenerate": false,
+      "buffer_cells": [
+        "s13N1",
+        "s13N1",
+        "s13N1",
+        "s13N1",
+        "s13N1",
+        "s13N1",
+        "s13N1",
+        "s13N1",
+        "s13N1",
+        "s13N2",
+        "s9N1",
+        "s9N1",
+        "s9N1",
+        "s9N1",
+        "s9N1",
+        "s9N1",
+        "s9N1",
+        "s9N2",
+        "s9N2",
+        "s9N2",
+        "s9N2",
+        "s9N2",
+        "s9N3",
+        "s9N3",
+        "s9N3",
+        "s9N3",
+        "s9N3",
+        "s9N3",
+        "s9N3",
+        "s9N3"
+      ]
+    },
+    {
+      "env_steps": 250000,
+      "scoring_steps": 41130,
+      "scoring_wall_s": 40.1,
+      "rolled": 20,
+      "mean_p": 0.0125,
+      "degenerate": false,
+      "buffer_cells": [
+        "s13N1",
+        "s13N1",
+        "s13N1",
+        "s13N1",
+        "s13N1",
+        "s13N1",
+        "s13N1",
+        "s13N2",
+        "s13N2",
+        "s13N2",
+        "s13N2",
+        "s9N1",
+        "s9N1",
+        "s9N1",
+        "s9N1",
+        "s9N1",
+        "s9N1",
+        "s9N1",
+        "s9N1",
+        "s9N2",
+        "s9N2",
+        "s9N2",
+        "s9N2",
+        "s9N2",
+        "s9N2",
+        "s9N2",
+        "s9N3",
+        "s9N3",
+        "s9N3",
+        "s9N3"
+      ]
+    },
+    {
+      "env_steps": 500000,
+      "scoring_steps": 40457,
+      "scoring_wall_s": 39.6,
+      "rolled": 20,
+      "mean_p": 0.0125,
+      "degenerate": false,
+      "buffer_cells": [
+        "s13N1",
+        "s13N1",
+        "s13N1",
+        "s9N1",
+        "s9N1",
+        "s9N1",
+        "s9N1",
+        "s9N1",
+        "s9N1",
+        "s9N1",
+        "s9N2",
+        "s9N2",
+        "s9N2",
+        "s9N2",
+        "s9N2",
+        "s9N2",
+        "s9N2",
+        "s9N2",
+        "s9N3",
+        "s9N3",
+        "s9N3",
+        "s9N3",
+        "s9N3",
+        "s9N3",
+        "s9N3",
+        "s9N3",
+        "s9N3",
+        "s9N3",
+        "s9N3",
+        "s9N3"
+      ]
+    },
+    {
+      "env_steps": 750000,
+      "scoring_steps": 39430,
+      "scoring_wall_s": 33.7,
+      "rolled": 20,
+      "mean_p": 0.0,
+      "degenerate": true,
+      "buffer_cells": [
+        "s13N1",
+        "s13N1",
+        "s13N1",
+        "s13N1",
+        "s13N1",
+        "s13N1",
+        "s13N1",
+        "s13N1",
+        "s13N1",
+        "s13N1",
+        "s13N1",
+        "s13N2",
+        "s13N2",
+        "s9N1",
+        "s9N1",
+        "s9N1",
+        "s9N1",
+        "s9N1",
+        "s9N1",
+        "s9N2",
+        "s9N2",
+        "s9N2",
+        "s9N2",
+        "s9N2",
+        "s9N2",
+        "s9N2",
+        "s9N3",
+        "s9N3",
+        "s9N3",
+        "s9N3"
+      ]
+    },
+    {
+      "env_steps": 1000000,
+      "scoring_steps": 55231,
+      "scoring_wall_s": 28.8,
+      "rolled": 20,
+      "mean_p": 0.1,
+      "degenerate": false,
+      "buffer_cells": [
+        "s13N1",
+        "s13N1",
+        "s13N1",
+        "s13N1",
+        "s13N1",
+        "s13N1",
+        "s13N1",
+        "s13N1",
+        "s13N1",
+        "s13N1",
+        "s13N1",
+        "s13N2",
+        "s9N1",
+        "s9N1",
+        "s9N1",
+        "s9N1",
+        "s9N1",
+        "s9N1",
+        "s9N1",
+        "s9N2",
+        "s9N2",
+        "s9N3",
+        "s9N3",
+        "s9N3",
+        "s9N3",
+        "s9N3",
+        "s9N3",
+        "s9N3",
+        "s9N3",
+        "s9N3"
+      ]
+    },
+    {
+      "env_steps": 1250000,
+      "scoring_steps": 19542,
+      "scoring_wall_s": 13.6,
+      "rolled": 20,
+      "mean_p": 0.2125,
+      "degenerate": false,
+      "buffer_cells": [
+        "s13N1",
+        "s13N1",
+        "s13N1",
+        "s13N1",
+        "s13N1",
+        "s13N1",
+        "s13N1",
+        "s13N1",
+        "s13N1",
+        "s13N1",
+        "s13N1",
+        "s9N1",
+        "s9N1",
+        "s9N1",
+        "s9N1",
+        "s9N1",
+        "s9N1",
+        "s9N2",
+        "s9N2",
+        "s9N2",
+        "s9N2",
+        "s9N2",
+        "s9N3",
+        "s9N3",
+        "s9N3",
+        "s9N3",
+        "s9N3",
+        "s9N3",
+        "s9N3",
+        "s9N3"
+      ]
+    }
+  ],
+  "args": {
+    "condition": "sfl_grader",
+    "seed": 2,
+    "sizes": [
+      9,
+      13,
+      17
+    ],
+    "tiers": [
+      1,
+      2,
+      3
+    ],
+    "total_steps": 1500000,
+    "eval_every": 50000,
+    "refresh": 250000,
+    "candidates": 100,
+    "calib": 20,
+    "k": 4,
+    "buffer": 30,
+    "gen_seed_range": 50000,
+    "eval_seed_start": 100000,
+    "eval_episodes": 4,
+    "results_dir": "results_v2_sfl_lc91317",
+    "quick": false
+  },
+  "code": {
+    "curriculum_harness.py": "d423df0646c92627b9d6d027346640ad",
+    "difficulty_scoring.py": "f75c116a63850ec3f17ef9e5ed501c93",
+    "git_head": "02bcc8bea372c58a7f0595e77d9f4bc9372ace54"
+  }
+}

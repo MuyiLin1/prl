@@ -1,0 +1,120 @@
+{
+  "condition": "adaptive_coarse",
+  "seed": 8,
+  "sizes": [
+    7,
+    9,
+    11
+  ],
+  "tiers": [
+    1,
+    2,
+    3
+  ],
+  "total_steps": 600000,
+  "n_bins": 3,
+  "target": 0.3,
+  "steps_to_target": 450000,
+  "final_held_success": 0.6042,
+  "wall_s": 660.4,
+  "n_train": 90,
+  "n_eval": 36,
+  "curve": [
+    {
+      "env_steps": 50000,
+      "held_success": 0.0486,
+      "gate_success": 0.1667,
+      "frontier": 0,
+      "n_active": 30,
+      "wall_s": 42.1
+    },
+    {
+      "env_steps": 100000,
+      "held_success": 0.0556,
+      "gate_success": 0.1667,
+      "frontier": 0,
+      "n_active": 30,
+      "wall_s": 92.4
+    },
+    {
+      "env_steps": 150000,
+      "held_success": 0.0556,
+      "gate_success": 0.1667,
+      "frontier": 0,
+      "n_active": 30,
+      "wall_s": 136.8
+    },
+    {
+      "env_steps": 200000,
+      "held_success": 0.0486,
+      "gate_success": 0.1944,
+      "frontier": 0,
+      "n_active": 30,
+      "wall_s": 197.0
+    },
+    {
+      "env_steps": 250000,
+      "held_success": 0.0,
+      "gate_success": 0.1667,
+      "frontier": 0,
+      "n_active": 30,
+      "wall_s": 255.8
+    },
+    {
+      "env_steps": 300000,
+      "held_success": 0.0556,
+      "gate_success": 0.2222,
+      "frontier": 0,
+      "n_active": 30,
+      "wall_s": 315.9
+    },
+    {
+      "env_steps": 350000,
+      "held_success": 0.0486,
+      "gate_success": 0.2361,
+      "frontier": 0,
+      "n_active": 30,
+      "wall_s": 375.1
+    },
+    {
+      "env_steps": 400000,
+      "held_success": 0.2569,
+      "gate_success": 0.5694,
+      "frontier": 0,
+      "n_active": 30,
+      "wall_s": 432.0
+    },
+    {
+      "env_steps": 450000,
+      "held_success": 0.6389,
+      "gate_success": 0.875,
+      "frontier": 1,
+      "n_active": 60,
+      "wall_s": 497.3
+    },
+    {
+      "env_steps": 500000,
+      "held_success": 0.5486,
+      "gate_success": 0.9861,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 561.4
+    },
+    {
+      "env_steps": 550000,
+      "held_success": 0.5208,
+      "gate_success": 0.5208,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 611.9
+    },
+    {
+      "env_steps": 600000,
+      "held_success": 0.6042,
+      "gate_success": 0.6042,
+      "frontier": 2,
+      "n_active": 90,
+      "wall_s": 660.4
+    }
+  ]
+}

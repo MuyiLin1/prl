@@ -1,0 +1,14 @@
+domain,reward,label,task,n,difficulty_std,geometry_rf_cv
+Karel,shaped,single-run,Harvester,500,0.281,-0.045
+Karel,shaped,single-run,Seeder,500,0.281,0.035
+Karel,shaped,single-run,Snake,500,0.168,0.013
+Karel,shaped,single-run,TopOff,500,0.359,0.204
+Karel,shaped,stabilized(R=12),TopOff,200,0.173,0.283
+Karel,shaped,stabilized(R=12),Seeder,80,0.087,-0.111
+Karel,shaped,stabilized(R=12),Snake,80,0.074,-0.034
+Karel,shaped,stabilized(R=12),Harvester,80,0.082,0.009
+Karel,shaped,stabilized(R=12),TopOff,80,0.193,0.166
+MiniGrid,sparse,single-run,LavaGap/RedBlueDoor/PutNear,9,0.0,
+MiniGrid,shaped,shaped/partial-progress,LavaGap,60,0.147,0.764
+MiniGrid,shaped,shaped/success-rate,LavaGap,60,0.22,0.726
+MiniGrid,shaped,shaped/search-cost,LavaGap,60,73.33,0.686

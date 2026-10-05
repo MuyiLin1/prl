@@ -1,0 +1,278 @@
+[
+  {
+    "task_name": "MazeSparse",
+    "mean_best_reward": 1.0,
+    "median_best_reward": 1.0,
+    "solve_rate": 1.0,
+    "difficulty": 0.0,
+    "mean_programs": 258.2,
+    "log_mean_programs": 2.2767,
+    "num_seeds": 4,
+    "max_program_nums": 10000,
+    "seed_rewards": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_programs": [
+      654,
+      118,
+      109,
+      152
+    ]
+  },
+  {
+    "task_name": "StairClimberSparse",
+    "mean_best_reward": 1.0,
+    "median_best_reward": 1.0,
+    "solve_rate": 1.0,
+    "difficulty": 0.0,
+    "mean_programs": 660.0,
+    "log_mean_programs": 2.7679,
+    "num_seeds": 4,
+    "max_program_nums": 10000,
+    "seed_rewards": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_programs": [
+      379,
+      378,
+      1193,
+      690
+    ]
+  },
+  {
+    "task_name": "FourCorners",
+    "mean_best_reward": 1.0,
+    "median_best_reward": 1.0,
+    "solve_rate": 1.0,
+    "difficulty": 0.0,
+    "mean_programs": 1340.8,
+    "log_mean_programs": 3.0521,
+    "num_seeds": 4,
+    "max_program_nums": 10000,
+    "seed_rewards": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_programs": [
+      1081,
+      2351,
+      1510,
+      421
+    ]
+  },
+  {
+    "task_name": "TopOff",
+    "mean_best_reward": 1.0,
+    "median_best_reward": 1.0,
+    "solve_rate": 1.0,
+    "difficulty": 0.0,
+    "mean_programs": 2375.0,
+    "log_mean_programs": 3.0825,
+    "num_seeds": 4,
+    "max_program_nums": 10000,
+    "seed_rewards": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_programs": [
+      2015,
+      96,
+      5305,
+      2084
+    ]
+  },
+  {
+    "task_name": "Harvester",
+    "mean_best_reward": 1.0,
+    "median_best_reward": 1.0,
+    "solve_rate": 1.0,
+    "difficulty": -0.0,
+    "mean_programs": 1736.8,
+    "log_mean_programs": 3.0622,
+    "num_seeds": 4,
+    "max_program_nums": 10000,
+    "seed_rewards": [
+      1.0000000000000002,
+      1.0000000000000002,
+      1.0000000000000002,
+      1.0000000000000002
+    ],
+    "seed_programs": [
+      4152,
+      1371,
+      1154,
+      270
+    ]
+  },
+  {
+    "task_name": "CleanHouse",
+    "mean_best_reward": 1.0,
+    "median_best_reward": 1.0,
+    "solve_rate": 1.0,
+    "difficulty": -0.0,
+    "mean_programs": 497.0,
+    "log_mean_programs": 2.4246,
+    "num_seeds": 4,
+    "max_program_nums": 10000,
+    "seed_rewards": [
+      1.0000000000000002,
+      1.0000000000000002,
+      1.0000000000000002,
+      1.0000000000000002
+    ],
+    "seed_programs": [
+      1426,
+      118,
+      82,
+      362
+    ]
+  },
+  {
+    "task_name": "DoorKey",
+    "mean_best_reward": 0.5,
+    "median_best_reward": 0.5,
+    "solve_rate": 0.0,
+    "difficulty": 0.5,
+    "mean_programs": 10403.8,
+    "log_mean_programs": 4.0171,
+    "num_seeds": 4,
+    "max_program_nums": 10000,
+    "seed_rewards": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "seed_programs": [
+      10442,
+      10085,
+      10390,
+      10698
+    ]
+  },
+  {
+    "task_name": "OneStroke",
+    "mean_best_reward": 0.935045,
+    "median_best_reward": 0.937054,
+    "solve_rate": 0.0,
+    "difficulty": 0.064955,
+    "mean_programs": 10218.5,
+    "log_mean_programs": 4.0094,
+    "num_seeds": 4,
+    "max_program_nums": 10000,
+    "seed_rewards": [
+      0.9321428571428573,
+      0.9419642857142858,
+      0.9196428571428573,
+      0.9464285714285716
+    ],
+    "seed_programs": [
+      10013,
+      10257,
+      10362,
+      10242
+    ]
+  },
+  {
+    "task_name": "Seeder",
+    "mean_best_reward": 0.93316,
+    "median_best_reward": 0.956163,
+    "solve_rate": 0.0,
+    "difficulty": 0.06684,
+    "mean_programs": 10221.5,
+    "log_mean_programs": 4.0095,
+    "num_seeds": 4,
+    "max_program_nums": 10000,
+    "seed_rewards": [
+      0.9375000000000002,
+      0.8272569444444448,
+      0.9748263888888891,
+      0.9930555555555556
+    ],
+    "seed_programs": [
+      10317,
+      10380,
+      10076,
+      10113
+    ]
+  },
+  {
+    "task_name": "Snake",
+    "mean_best_reward": 0.188281,
+    "median_best_reward": 0.19375,
+    "solve_rate": 0.0,
+    "difficulty": 0.811719,
+    "mean_programs": 10259.5,
+    "log_mean_programs": 4.0111,
+    "num_seeds": 4,
+    "max_program_nums": 10000,
+    "seed_rewards": [
+      0.22812499999999994,
+      0.13749999999999996,
+      0.22187500000000002,
+      0.165625
+    ],
+    "seed_programs": [
+      10395,
+      10145,
+      10180,
+      10318
+    ]
+  },
+  {
+    "task_name": "WallAvoider",
+    "mean_best_reward": 0.121094,
+    "median_best_reward": 0.121094,
+    "solve_rate": 0.0,
+    "difficulty": 0.878906,
+    "mean_programs": 10093.8,
+    "log_mean_programs": 4.004,
+    "num_seeds": 4,
+    "max_program_nums": 10000,
+    "seed_rewards": [
+      0.1171875,
+      0.125,
+      0.1171875,
+      0.125
+    ],
+    "seed_programs": [
+      10045,
+      10053,
+      10154,
+      10123
+    ]
+  },
+  {
+    "task_name": "PathFollow",
+    "mean_best_reward": 0.259943,
+    "median_best_reward": 0.254261,
+    "solve_rate": 0.0,
+    "difficulty": 0.740057,
+    "mean_programs": 10260.0,
+    "log_mean_programs": 4.011,
+    "num_seeds": 4,
+    "max_program_nums": 10000,
+    "seed_rewards": [
+      0.2585227272727271,
+      0.2982954545454544,
+      0.2329545454545453,
+      0.2499999999999999
+    ],
+    "seed_programs": [
+      10641,
+      10032,
+      10130,
+      10237
+    ]
+  }
+]
